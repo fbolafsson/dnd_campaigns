@@ -1,2 +1,2 @@
-# dnd_campaigns
+# DnD Campaigns
 Staður fyrir mig að skipuleggja dnd
