@@ -15,5 +15,6 @@ Kilmir tilheyrir einhvers lags reglu leigumorðingja.
 ## Markmið
 Endurheimta fjölskyldu muni.
 - Hylbrandur (Blackrazor)?
+- Illuminated Blade(Fearie Fire)?
 
 Endurheimta ættaróðal.
