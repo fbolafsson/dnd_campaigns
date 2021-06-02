@@ -11,9 +11,11 @@ Pearl of Power
 
 Winged Boots
 
-Wand of Web
-
 Ring of Evasion
+
+Keighton's Chimes
+
+Jakkin's Trick Pony
 
 ### Leyni verðlaun
 Fey touched feat
