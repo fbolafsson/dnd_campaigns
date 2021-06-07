@@ -14,7 +14,35 @@ Kilmir tilheyrir einhvers lags reglu leigumorðingja.
 
 ## Markmið
 Endurheimta fjölskyldu muni.
-- Hylbrandur (Blackrazor)?
-- Bjarmi (Illuminated Blade) (Fearie Fire)?
+- Ódæði (Blackrazor nema scimitar)?
+  - Smíðaður úr svatri og óþekktri tegund af stáli.
+  - Hjaltað er snákur sem hringar sig um handfangið.
+  - Týndist í bardaga og var stolið af einhverjum óbreyttum hermanni sem seldi 
+    það til galdramanns.
+- Níðingur (Hnífur sem á eitthvað skilt með Ódæði)
+  - Blaðið svart og lítur út eins og hlykkjandi snákur sem endar á haus 
+    snáksins.
+  - Dagger of Venom.
+    Ódæði lítur á Níðing sem gæludýrið sitt.
+- Dulúð (Skykkja)
+  - Rauð að utan, svört að innan.
+    
 
 Endurheimta ættaróðal.
+
+## Ætt
+Salaris
+- Satyr - Fyrstur til að bera nafnið Salaris, konunglegi leigumorðinginn
+- Xarros - Konunlegur leigumorðingi
+- Shathos - Markgreifi, fyrstur til að bera Ódæði og Níðing
+- Ebrias - Markgreifi
+- Amthos - Markgreifi
+- Zarrakir - Markgreifi
+- Carshoon - Markgreifi
+- Ekthus - Markgreifi, dó í bardaga, glataði Ódæði
+- Karnon - Markgreifi, týndi Dulúð, talin heldur ófær
+- Barrias - Markgreifi, lélegur stríðshöfðingi, tapaði innkomu og reyndi að
+  bæta það upp með því að eyða meira til að ()
+- Urzer - Seldi titilinn og Níðing (f. -55, d. -5)
+- Kilmir
+  
