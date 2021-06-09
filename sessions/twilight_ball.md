@@ -1,24 +1,36 @@
 ## Verðlaun
-[Elven Chain](https://www.dndbeyond.com/magic-items/elven-chain)
+[Elven Chain](https://www.dndbeyond.com/magic-items/elven-chain) - Bússa, 
+Dimona
 
-[Elven Cloak](https://www.dndbeyond.com/magic-items/cloak-of-elvenkind)
+[Glamoured Studded Leather](
+https://www.dndbeyond.com/magic-items/glamoured-studded-leather) - Bússa, 
+Kilmir
 
-[Glamoured Studded Leather](https://www.dndbeyond.com/magic-items/glamoured-studded-leather)
+[Goggles of the Night](https://www.dndbeyond.com/magic-items/goggles-of-night) -
+Balasar, Bússa
 
-[Goggles of the Night](https://www.dndbeyond.com/magic-items/goggles-of-night)
+[Pearl of Power](https://www.dndbeyond.com/magic-items/pearl-of-power) - Bússa,
+Dimona, -Kilmir, -Zonoki
 
-[Pearl of Power](https://www.dndbeyond.com/magic-items/pearl-of-power)
+[Winged Boots](https://www.dndbeyond.com/magic-items/winged-boots) - Allir
 
-[Winged Boots](https://www.dndbeyond.com/magic-items/winged-boots)
+[Ring of Evasion](https://www.dndbeyond.com/magic-items/ring-of-evasion) - 
+Allir
 
-[Ring of Evasion](https://www.dndbeyond.com/magic-items/ring-of-evasion)
+[Keighton's Chimes](/items/pipur_keightons.md) - Bússa
 
-[Keighton's Chimes](/items/Keightons_Chimes.md)
+Jakkin's Trick Pony - Allir
 
-Jakkin's Trick Pony
+### *Samantekt*
+- Balasar - 4
+- Bússa - 8
+- Dimóna - 5
+- Kilmir - 5
+- Zonoki - 4
 
 ### Leyni verðlaun
 [Fey touched feat](https://www.dndbeyond.com/feats/fey-touched)
+
 #### Aukaverkar:
 Fjaðrir myndast á líkamanum
 

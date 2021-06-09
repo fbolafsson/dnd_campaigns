@@ -2,7 +2,8 @@
 ### Spilari: Rakel
 
 ## Lýsing
-Hobbiti, College of Lore Bard.
+[Hobbiti](https://www.dndbeyond.com/races/halfling), [College of Lore Bárður](
+https://www.dndbeyond.com/classes/bard#CollegeofLore).
 
 ## Bakgrunnur
 Er í pílagrímsferð að læra um heiminn. 
