@@ -8,10 +8,12 @@ Valdamikil ætt í Miklagarði.
 Markmið
 
 ## Valdasvið
-Lýsing á því hvað samtök eru fær um að gera.
+- Markgreifi [Hrafnagarða](/world/locations/hrafnagardur.md)
+- Barónn [Lyngdals](/world/locations/lyngdalur.md)
+- Ráðsmaður [Miklagarðs](/world/locations/mikligardur.md)
 
 ## Höfuð
-[Alexander Lyngdal](/npcs/alexander.md) - Markgreifi
+[Alexander Lyngdal](/npcs/alexander.md) - 
 
 ## Meðlimir
 Nöfn markverðra meðlima.

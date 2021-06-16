@@ -10,12 +10,13 @@ Kilmir er af gamalli aðalsætt Tieflinga sem var mjög virt fyrir langa löngu
 völd en bara góða nafnið situr eftir, Kilmir er einn eftir af sinni ætt og
 þráir það heitast að ná aftur völdum og virðingu.
 
-Kilmir tilheyrir einhvers lags reglu leigumorðingja.
+Kilmir tilheyrir [Konunglega samfélagi Miglagarðs í málefnum framandi
+eignamiðlunar](/factions/eignamidlun.md).
 
 ## Markmið
 Endurheimta fjölskyldu muni.
 - Ódæði (Blackrazor nema scimitar)?
-  - Smíðaður úr svatri og óþekktri tegund af stáli.
+  - Smíðaður úr svatri og óþekktri tegund af stáli með grænum gljáa.
   - Hjaltað er snákur sem hringar sig um handfangið.
   - Týndist í bardaga og var stolið af einhverjum óbreyttum hermanni sem seldi 
     það til galdramanns.
@@ -28,7 +29,7 @@ Endurheimta fjölskyldu muni.
   - Rauð að utan, svört að innan.
     
 
-Endurheimta ættaróðal.
+Endurheimta ættaróðalið [Hrafnagarða](/world/locations/hrafnagardur.md).
 
 ## Ætt
 Salaris
