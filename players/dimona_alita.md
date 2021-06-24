@@ -10,3 +10,6 @@ prettum.
 ## Note
 Má velja að fá wild surge þegar hún kastar galdri til að fá aftur Tides of 
 Chaos
+
+Dímóna er með ögn af Eystra Hjartanu í sér og Baba Yaga mun vilja fá hana til 
+að framlengja líf sitt eins mikið og auðið er.
