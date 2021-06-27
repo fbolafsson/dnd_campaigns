@@ -19,7 +19,7 @@ Allir
 
 [Keighton's Chimes](/items/pipur_keightons.md) - Bússa
 
-Jakkin's Trick Pony - Allir
+[Jakkin's Trick Pony](/items/trick_pony.md) - Allir
 
 ### *Samantekt*
 - Balasar - 4
