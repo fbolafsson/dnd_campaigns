@@ -15,3 +15,6 @@
 
 ## Aðkoma
 Spilarar koma að bænum Kot þar sem nokkuð ljóst er að allir þorpsbúar eru nýlega látnir.
+
+## Úrspil
+Spilarar tóku kort og ætluðu að senda.

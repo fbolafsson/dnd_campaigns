@@ -7,19 +7,21 @@ Maneuver save DC = 8 + your proficiency bonus + your weapon ability modifier.
 
 ### Cleave
 Attack targets in range up to your ability modifier. You don't add your 
-ability modifier to the damage of the attacks.
+ability modifier to the damage on the attacks.
 
 ### Bash
 Double your ability modifier on your attack roll. You don't add your ability 
-modifier to the damage of the attack.
+modifier to the damage on the attack.
 
 ### Hobble
-Forgo your ability modifier on the damage roll and the target must make a 
-dexterity saving throw, on a failed save the targets movement is halved.
+Forgo your ability modifier on the damage roll, the target must make a 
+dexterity saving throw, on a failed save the target's movement is halved.
 
-### Brace
-If you did not move on your last turn, other creatures provoke an opportunity 
-attack from you when they enter your reach.
+### Rush
+Charge forward in a straight line and attack all Enemies in the way.
+
+### Aimed strike
+Use your bonus action to give your next attack advantage.
 
 ### Slash
 Forgo damage to give the target a *bleeding* condition equal to your ability 
