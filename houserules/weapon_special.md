@@ -27,6 +27,12 @@ Use your bonus action to give your next attack advantage.
 Forgo damage to give the target a *bleeding* condition equal to your ability 
 modifier. 
 
+### Overcharge - spell attack
+???
+
+### Shield brace
+Something something shield action.
+
 *Bleeding condition (n):* At the start of your turn take *(n)* damage. At the
 end of your turn you can make a *Constitution saving throw*, on a success 
 you lose the bleeding condition.
