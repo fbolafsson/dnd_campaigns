@@ -13,6 +13,10 @@ ability modifier to the damage on the attacks.
 Double your ability modifier on your attack roll. You don't add your ability 
 modifier to the damage on the attack.
 
+### Slash
+Forgo damage to give the target a *bleeding* condition equal to your ability 
+modifier. 
+
 ### Hobble
 Forgo your ability modifier on the damage roll, the target must make a 
 dexterity saving throw, on a failed save the target's movement is halved.
@@ -22,10 +26,6 @@ Charge forward in a straight line and attack all Enemies in the way.
 
 ### Aimed strike
 Use your bonus action to give your next attack advantage.
-
-### Slash
-Forgo damage to give the target a *bleeding* condition equal to your ability 
-modifier. 
 
 ### Overcharge - spell attack
 ???
