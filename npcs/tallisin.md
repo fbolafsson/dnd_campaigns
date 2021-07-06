@@ -13,4 +13,4 @@ fyrir
 ## Afskipti við spilara
 Verðlaunaði spilurunum fyrir að stöðva söngviðjuna og tók ljósvaka kristallanna
 sem þeir fundu fasta í henni með því að bjóða þeim í [veislu](
-/sessions/twilight_ball.md) í [Hulduhirðinni](/factions/hulduhirdin.md)
+/sessions/bussurnar/twilight_ball.md) í [Hulduhirðinni](/factions/hulduhirdin.md)
