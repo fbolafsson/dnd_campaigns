@@ -7,6 +7,7 @@
 - Komast að því að dýrin eru ennþá sturluð.
 - Bændaþing?
 - Sjálfboðaliða til að berjast með sér við söngviðjuna.
+- Maggamamma býður bósunum 2 healing potion (2d4+1 heal)
 - Úlfar í skóginum ráðast á þá
 - Berjast við söngviðjuna.
 - [Jelena](/npcs/jelena.md) biður þá um að senda brét til systur sinnar Elsu og
