@@ -1,6 +1,9 @@
 # Session 3 - Eggert og Kambhnoðrinn
 
 ### Væntingar
+- Finna Uglubjörn sem er að gramsa eftir krökkunum.
+- Finna [Heru](/npcs/hera.md) og krakkana - leiða þau til [Linda](
+  /world/locations/lindir.md)
 - Finna [Eggert](/npcs/eggert.md) hann er búinn að kreista blóðmerki úr öllum
   bæjarbúum Lindar.
 - Segir spilurum frá því að hann er að reyna að finna kamhnoðra og er tilbúinn 
