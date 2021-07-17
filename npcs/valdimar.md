@@ -1,9 +1,13 @@
-# Valdimar Austdal
+# Valdimar Austmann
 ## Lýsing
-Hér kemur fram lýsing um aðila.
+Kubbalegur maður með dökkt hár, há kollvik og doughnut skegg. Vingjarnlegur.
+
 ## Markmið
-Hér kemur fram markmið aðilans.
+Halda stöðu sinni og auð. 
+
 ## Baksaga
-Hér kemur fram bakasaga aðilans.
+Markgreifi Hlynvalla, sér um að verja austur hluta Miklagarðs aðallega frá 
+orkum og drýslum utan. 
+
 ## Afskipti við spilara
-Hér kemur fram hverni npc hefur haft afskipti við spilara.
+Ef það kemur til tals um Kot þá mætir hann því aðallega með pirring.

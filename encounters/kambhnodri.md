@@ -21,4 +21,23 @@ Augljósir galdrar:
 Óljósir galdrar:
 - Detect magic - Fylgja slóðinni miðað við hvar galdrarnir eru sterkastir - 
   kannski nota þetta með arcana saman.
-  
+
+### Mönster
+- Ýmir - [Stríðsmaður](https://www.dndbeyond.com/monsters/tribal-warrior)
+  - Var áður timburhöggsmaður frá Koti.
+  - Mállaus og orðinn alvarlega geðveikur.
+- Gonsi og Fonsi - [Scouts](https://www.dndbeyond.com/monsters/scout)
+  - Fylgdu Bínu þegar hún yfirgaf hópinn sinn.
+- Vilopon - [Drýaða](https://www.dndbeyond.com/monsters/dryad)
+  - Næstráðandi.
+- Dromm - [Berskerkur](https://www.dndbeyond.com/monsters/Berserker)
+  - Orka stríðsmaður sem vonaðist til að Bína gæti hjálpað sér að finna systur
+  sína sem týndist í skóginum.
+- Sivix - [Satír](https://www.dndbeyond.com/monsters/satyr)
+  - Varð ástfanginn af Bínu. 
+  - Spilar á pan flautu úr beinum risahalakörtu
+- Bína - [Herfa](https://www.dndbeyond.com/monsters/harpy)
+  - Móðir fjölskyldunnar
+  - Oft ekki í virkinu og annað hvort að veiða eða bóna Sivix.
+  - Kann að kasta [*Clairvoyance*](
+    https://www.dndbeyond.com/spells/clairvoyance)
