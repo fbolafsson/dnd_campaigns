@@ -25,6 +25,7 @@
 
 ### Væntingar
 - Finna Uglubjörn sem er að gramsa eftir krökkunum.
+- Etjast við [Uglubjörn](https://www.dndbeyond.com/monsters/owlbear)
 - Finna [Heru](/npcs/hera.md) og krakkana - leiða þau til [Linda](
   /world/locations/lindir.md)
 - Finna [Eggert](/npcs/eggert.md) hann er búinn að kreista blóðmerki úr öllum
@@ -39,6 +40,7 @@
   /world/locations/lindir.md)
 - Fara á Hlynvelli 
 - ??? [Bláklukkan](/encounters/blaklukka.md)
+- 
 
 
 ### Bósana frá Lindum

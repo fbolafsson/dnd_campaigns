@@ -34,6 +34,8 @@ https://www.dndbeyond.com/monsters/fiendish-giant-spider)
   fengu ekki nafnið hans en viðmótið var kalt. - Ég gleymdi að taka fram að þeir
   væru með mikið af vistum.
 - Fundu bæinn Kot og fundu að allir voru látnir í bænum.
+  - Föttuðu að börnin væru ekki þar.
+  - Minntust [Æðakerfisins](/factions/)
 - Halda að einhver annar en Eggert hafi myrt bæinn.
 - Halda að Hera sé í næsta bæ.
 - Hittu [Suzengu](/npcs/suzenga.md) 
