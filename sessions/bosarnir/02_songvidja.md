@@ -35,7 +35,7 @@ https://www.dndbeyond.com/monsters/fiendish-giant-spider)
   væru með mikið af vistum.
 - Fundu bæinn Kot og fundu að allir voru látnir í bænum.
   - Föttuðu að börnin væru ekki þar.
-  - Minntust [Æðakerfisins](/factions/)
+  - Minntust [Æðakerfisins](/factions/aedakerfid.md)
 - Halda að einhver annar en Eggert hafi myrt bæinn.
 - Halda að Hera sé í næsta bæ.
 - Hittu [Suzengu](/npcs/suzenga.md) 
