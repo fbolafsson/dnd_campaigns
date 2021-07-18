@@ -56,3 +56,7 @@
 - 2: Önnur nótt á stígnum, mæta í kot
 - 3-4: Búa til Blóðmerki
 - 5: Leggja af stað til Nornatannar
+
+### Krakkarnir
+- 2: Fyrsta nótt á stígnum
+- 
