@@ -40,8 +40,6 @@
   /world/locations/lindir.md)
 - Fara á Hlynvelli 
 - ??? [Bláklukkan](/encounters/blaklukka.md)
-- 
-
 
 ### Bósana frá Lindum
 - 0: Leggja af stað frá lindum
@@ -59,4 +57,9 @@
 
 ### Krakkarnir
 - 2: Fyrsta nótt á stígnum
-- 
+
+### Úrvinda
+- Fundu krakkana í skóginum.
+- Brenndu hús Ólaskúla.
+- Drápu Eggert og hans félaga.
+- Sóttu krakkana úr skóginum.
