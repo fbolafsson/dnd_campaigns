@@ -63,3 +63,4 @@
 - Brenndu hús Ólaskúla.
 - Drápu Eggert og hans félaga.
 - Sóttu krakkana úr skóginum.
+- Skoðuðu ekki Kambhnoðrann.
