@@ -19,3 +19,11 @@ tilfærsludýrin.
 - Ef hellings tími er eftir þegar þeir klára tilfærsludýrin þá mætti reyna að
   troða inn Dereðu fingrunum.
 - Láta Ými vita hvað gerðist eftir það.
+
+### Úrvinda
+- Ýmsarnir réðust á mennina sem voru að rækta kraftinn úr ævitré
+  - Ævitré eru liðnir álfar þannig að fella niður ævitré er eins og að drepa 
+    öldung og taka hann úr himnaríki.
+- Náðu að sprengja framleiðsluna, en tréð dó í leiðinni.
+- Drápu tilfærsluskepnurnar
+- Skrýmir tók feldinn af tveim tilfærsludýrum

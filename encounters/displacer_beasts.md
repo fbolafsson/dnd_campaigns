@@ -34,3 +34,8 @@
 ## BEAST
 - [Enhanced](https://www.gmbinder.com/share/-MYAjg3wKUt1Vna6XuRH)
 - [Regular](https://www.dndbeyond.com/monsters/displacer-beast)
+
+## Eftir fyrstu tilraun
+- Gleymdi að nota avoidance hæfileikann á displacer beast
+- Sýndi gildruna strax þegar var leitað í reitnum. Hefði frekar átt að láta
+  þá taka perception á staðnum ef þeir fóru þangað.
