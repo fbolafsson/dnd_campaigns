@@ -23,5 +23,23 @@
   - Finna Líney - Vinnur sem neta vefafir við höfnina.
 - Líney segir bósunum að Örn var að skipuleggja verkfall í Fiskvinnslunni og 
   hefur verið hennt í fangelsi.
-  - [Prison break](https://docs.google.com/document/d/1bsf5d4m4Qs1Or7bh28FO7iKNOGSWWsowRdl2uH2Ac7A/edit)
-  - Gefur Bósunum bát ef þeir 
+  - [Prison break](https://drive.google.com/file/d/1GatjzHHI9n7pi-0V_RaQ2wTPh9NGcZwX/view)
+  - Gefur Bósunum bát ef þeir frelsa hann úr fangelsi.
+
+### Notes
+Til Eggert Lyngdal
+
+Ég óska þess að þú gerir þér ferð til austur hjarta Markarinnar og færir mér 
+þaðan þrjá Kambhnoðra *með rótum*.
+
+*Lýsing á kambhnoðranum*
+
+Í þessa för skalt þú fá eins marga vessa og þú telur þig þurfa. Mörkungar eiga
+til að vera mjög óheilbrigðir heilsu utanaðkomandi.
+
+Kveðja, Adam
+
+### Úrvinda 
+- Áin hjá Vatnsenda heitir Sárið
+- Garpur tók við þeim hjá Vatnsenda
+  - Konan hans Gríma 

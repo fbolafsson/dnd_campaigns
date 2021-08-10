@@ -8,15 +8,20 @@ Valdamikil ætt í Miklagarði.
 Markmið
 
 ## Valdasvið
-- Markgreifi [Hrafnagarða](/world/locations/hrafnagardur.md)
-- Barónn [Lyngdals](/world/locations/lyngdalur.md)
-- Ráðsmaður [Miklagarðs](/world/locations/mikligardur.md)
+- Markgreifi [Hrafnagarða](/world/locations/hrafnagardur.md) - Alexander
+  - Eiríkur stjórnar Hrafnagarði í fjarveru Alexanders þegar hann er að sinna
+    störfum sem Ráðsmaður.
+- Barónn [Lyngdals](/world/locations/lyngdalur.md) - Almar
+- Ráðsmaður [Miklagarðs](/world/locations/mikligardur.md) - Alexander
 
 ## Höfuð
 [Alexander Lyngdal](/npcs/alexander.md) - 
 
 ## Meðlimir
-Nöfn markverðra meðlima.
+- [Alexander](/npcs/alexander.md)
+- Eiríkur
+- Almar
+- [Eggert](/npcs/eggert.md)
 
 ## Viðmót
 Viðmót við spilara.

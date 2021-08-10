@@ -29,7 +29,7 @@ Spilarar upplifðu það að [Eggert](/npcs/eggert.md) var tilbúinn að fórna 
 manns til að verja sín eigin líf og verkefnið þeirra.
 
 ## Stig
-1. Vessi
+1. Vessi 
 2. Slagæð
 3. Ósæð
 4. Hjarta

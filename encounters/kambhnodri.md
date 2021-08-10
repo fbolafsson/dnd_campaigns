@@ -23,7 +23,7 @@ Augljósir galdrar:
   kannski nota þetta með arcana saman.
 
 ### Mönster
-- Ýmir - [Stríðsmaður](https://www.dndbeyond.com/monsters/tribal-warrior)
+- Ýngvar - [Stríðsmaður](https://www.dndbeyond.com/monsters/tribal-warrior)
   - Var áður timburhöggsmaður frá Koti.
   - Mállaus og orðinn alvarlega geðveikur.
 - Gonsi og Fonsi - [Scouts](https://www.dndbeyond.com/monsters/scout)
