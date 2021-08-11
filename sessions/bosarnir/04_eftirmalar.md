@@ -40,6 +40,12 @@ til að vera mjög óheilbrigðir heilsu utanaðkomandi.
 Kveðja, Adam
 
 ### Úrvinda 
+- Ákváðu að fara til Vatnsenda 
+- Sáu kobolds í saltvatninu
 - Áin hjá Vatnsenda heitir Sárið
 - Garpur tók við þeim hjá Vatnsenda
   - Konan hans Gríma 
+  - [Bragi](/npcs/eggert.md) mjög djarfur í framkomu
+  - Tóku vatn úr brunninum
+- Almar skógarhöggsmaður sagði þeim hvar þrælahaldararnir voru.
+- Fundu Dereðu trén.
