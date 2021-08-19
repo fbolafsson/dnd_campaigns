@@ -23,7 +23,25 @@ Bússurnar fá þær leiðbeiningar að finna manninn sem réðst í skóginn og
       rauðum vökva sem læknaði öll sár. 
     - Hún biður bússurnar um hjálp þeirra til að skila þeim til sín lífs eða 
       liðnum og þá koma í veg fyrir að 
-  
+
+### Væntingar
+- Finna Uglubjörn sem er að gramsa eftir krökkunum.
+- Etjast við [Uglubjörn](https://www.dndbeyond.com/monsters/owlbear)
+- Finna [Heru](/npcs/hera.md) og krakkana - leiða þau til [Linda](
+  /world/locations/lindir.md)
+- Finna [Eggert](/npcs/eggert.md) hann er búinn að kreista blóðmerki úr öllum
+  bæjarbúum Lindar.
+- Segir spilurum frá því að hann er að reyna að finna kamhnoðra og er tilbúinn 
+  að yfirgefa skóginn og koma aldrei aftur ef hann fær kambhnoðrann.
+- Annað hvort samþykkja spilarar að sækja Kambhnoðra, eða og þá líklegra 
+  reyna þeir að finna leið til að ræna blóðmerkjunum.
+  - Síðan reyna að murka lífið úr þeim.
+- [Leitin að kambhnoðranum](/encounters/kambhnodri.md)
+- Álfarnir ráðast á þá á leiðinni heim á fyrsta degi á göngum frá [Lindum](
+  /world/locations/lindir.md)
+- Fara á Hlynvelli.
+- ??? [Bláklukkan](/encounters/blaklukka.md)
+
 ### Bússurnar frá Lindum
 - 0: Leggja af stað frá lindum
 - 1: Mæta Eggert stuttu fyrir svefn
