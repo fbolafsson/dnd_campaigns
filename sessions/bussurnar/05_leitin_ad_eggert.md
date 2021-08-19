@@ -31,6 +31,7 @@ Bússurnar fá þær leiðbeiningar að finna manninn sem réðst í skóginn og
   /world/locations/lindir.md)
 - Finna [Eggert](/npcs/eggert.md) hann er búinn að kreista blóðmerki úr öllum
   bæjarbúum Lindar.
+- Eggert er með hnífinn [Níðing](/players/bussurnar/kilmir_salaris.md)
 - Segir spilurum frá því að hann er að reyna að finna kamhnoðra og er tilbúinn 
   að yfirgefa skóginn og koma aldrei aftur ef hann fær kambhnoðrann.
 - Annað hvort samþykkja spilarar að sækja Kambhnoðra, eða og þá líklegra 

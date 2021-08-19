@@ -15,7 +15,8 @@ eignamiðlunar](/factions/eignamidlun.md).
 
 ## Markmið
 Endurheimta fjölskyldu muni.
-- Ódæði (Blackrazor nema scimitar)?
+- Ódæði ([Blackrazor](https://www.dndbeyond.com/magic-items/blackrazor) nema 
+  scimitar)?
   - Smíðaður úr svatri og óþekktri tegund af stáli með grænum gljáa.
   - Hjaltað er snákur sem hringar sig um handfangið.
   - Týndist í bardaga og var stolið af einhverjum óbreyttum hermanni sem seldi 
@@ -23,8 +24,8 @@ Endurheimta fjölskyldu muni.
 - Níðingur (Hnífur sem á eitthvað skilt með Ódæði)
   - Blaðið svart og lítur út eins og hlykkjandi snákur sem endar á haus 
     snáksins.
-  - Dagger of Venom.
-    Ódæði lítur á Níðing sem gæludýrið sitt.
+  - [Dagger of Venom](https://www.dndbeyond.com/magic-items/dagger-of-venom).
+  - Ódæði lítur á Níðing sem gæludýrið sitt.
 - Dulúð (Skykkja)
   - Rauð að utan, svört að innan.
     
