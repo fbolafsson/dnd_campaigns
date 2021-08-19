@@ -5,6 +5,7 @@ Bósarnir plana hvernig skal koma Rhýmni að óvörðum til að ræna hann.
 - Bósarnir etjast við Stjarnlausu fjölskylduna.
 - Frelsa þar einhverja þræla
 - Lesa bókina sem afhjúpar leyndardóma um Mörkina
+  - *Á hræi ræktarans Mörkin vex, minningar hans og draumar óma enn.*
   - Lesandinn tekur umbreytingum - taka viðkomandi afsíðis og ræða hvernig það
     spilast út.
     - Í hársverðinum fara rætur að vaxa.

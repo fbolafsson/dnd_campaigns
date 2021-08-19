@@ -1,0 +1,1 @@
+Minnir að þetta hafi verið sér sesh

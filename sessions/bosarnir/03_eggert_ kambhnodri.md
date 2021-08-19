@@ -9,7 +9,7 @@
 - Bósarnir og Suzenga sömdu um að þeir myndu koma Aðalsmanninum og hyskinu hans
   til sín, lífs eða liðna. Í staðin fengu þeir.
   - 14 +1 örvar - benda á að helmingur örva eyðast við notkun.
-  - Lærðu um staðsetningu Drekans Rhýmnirs.
+  - Lærðu um staðsetningu Drekans Rhýmnis.
     - Tvær ár úr Dimmuborgum sameinast í Markárfljót. Það er Nyrðri-, og 
       Syðri-marká.
     - Skógardrekinn felur sig og dvelst í greni sínu undir foss í 
@@ -40,6 +40,8 @@
   /world/locations/lindir.md)
 - Fara á Hlynvelli 
 - ??? [Bláklukkan](/encounters/blaklukka.md)
+
+![Ferðir](03_ferdir.png)
 
 ### Bósana frá Lindum
 - 0: Leggja af stað frá lindum
