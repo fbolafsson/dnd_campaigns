@@ -6,7 +6,7 @@ Bússurnar fá þær leiðbeiningar að finna manninn sem réðst í skóginn og
 - [Jelena](/npcs/jelena.md) í Lindum bað bússurnar um að fara með bréf til 
   systur sinnar Amöndu sem býr í Koti.
   - Jelena gaf þeim kort af landinu í þakkabót.
-- Mættuð Eggerti og föruneyti hans (3 aðrir) á förnum vegi.
+- Mættuð Eggerti og föruneyti hans (4 aðrir) á förnum vegi.
 - Þegar mætt var í Kot þá var þeim fljótt ljóst að
   - Allir í bænum voru dauðir upp í rúmi.
   - Ekkert barn var að finna meðal hinna dauðu.
@@ -61,3 +61,9 @@ Bússurnar fá þær leiðbeiningar að finna manninn sem réðst í skóginn og
 - 2: Fyrsta nótt á stígnum
 
 ![Ferðir](03_ferdir.png)
+
+## Útspil
+- Kilmir plantaði Náttblóma í Kot.
+- Kilmir plantar Náttblóma þar sem Bússurnar hittu Eggert.
+- Laumuðust upp að Eggert og félögum hans og plötuðu þá í gildru.
+- Það á alveg eftir að útkljá það sem gerðist eftir orustuna.
