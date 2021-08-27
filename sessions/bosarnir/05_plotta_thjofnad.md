@@ -24,3 +24,9 @@ Bósarnir plana hvernig skal koma Rhýmni að óvörðum til að ræna hann.
     - Hanna encounter fyrir það.
   - Eltast eftir [Torfrisunum](https://www.dndbeyond.com/monsters/hill-giant)
     - Hanna encounter fyrir það.
+
+### Ef Bragi kemur ekki
+- Braga er rænt af stjarnlausu fjölskyldunni.
+- Sama hvort farið er til Skógarnornarinnar eða torfrisanna, þá þarf að enda 
+  sessjónið þegar þangað er komið, þannig það þarf nauðsynlega að juice-a upp
+  millitíðina.
