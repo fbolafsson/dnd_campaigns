@@ -30,3 +30,13 @@ Bósarnir plana hvernig skal koma Rhýmni að óvörðum til að ræna hann.
 - Sama hvort farið er til Skógarnornarinnar eða torfrisanna, þá þarf að enda 
   sessjónið þegar þangað er komið, þannig það þarf nauðsynlega að juice-a upp
   millitíðina.
+
+### Útspil
+- Andrónikos las bókina.
+- Andrónikos og Dögg - bonduðu og er núna familiarinn hans.
+- Þau tóku naglfarið.
+
+- Fóru til Gnúps. Komust að því að eldfjallið þar sem heitir Reykfjall.
+- Næsta sessjón: Segja frá því sem þeir sáu á Gnúpi.
+- Skrýmir fór í för að leita að risunum
+  - Hann fann höll torfrisans Snorra
