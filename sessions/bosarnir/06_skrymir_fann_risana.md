@@ -34,4 +34,7 @@ Gleymdu ljós og lífa
 - Drápu Njörð
 - Allir tóku sitthvora gullstöngina 2x(50gp)
 - Stefna á Hrafnagarða - follow up á Eggert og félaga.
-- Andrónikos sagði við álfana að þarna hafi menn frá Safabakka staðið að verki.
+- Andrónikos sagði við álfana hjá Rhýmni að þarna hafi menn frá Safabakka 
+  staðið að verki.
+- Bragi tók sverðið Ljóma
+- Ég átti eftir að segja að sverðið lýstist upp um leið og Bragi tók Ljóma
