@@ -39,4 +39,4 @@ Bósarnir plana hvernig skal koma Rhýmni að óvörðum til að ræna hann.
 - Fóru til Gnúps. Komust að því að eldfjallið þar sem heitir Reykfjall.
 - Næsta sessjón: Segja frá því sem þeir sáu á Gnúpi.
 - Skrýmir fór í för að leita að risunum
-  - Hann fann höll torfrisans Snorra
+  - Hann fann höll torfrisans Njóla
