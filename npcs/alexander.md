@@ -13,7 +13,7 @@ mjög fær í sinni vinnu. Notaði aðstöðu sína til að greiða upp lán Urz
 land hans og titla sem þóknun og varð það markgreifinn.
 
 ### Afkomendur
-- Adam - Riddari Lyngdals, stjórnar í fjarveru Alexanders
+- [Eiríkur](/npcs/eirikur.md) - Riddari Lyngdals, stjórnar í fjarveru Alexanders
 
 - Valentínus - Riddari (Paladin) [Reglu Helíosar](/factions/regla_helios.md)
 
