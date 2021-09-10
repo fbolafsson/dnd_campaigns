@@ -49,3 +49,4 @@ Kveðja, Adam
   - Tóku vatn úr brunninum
 - Almar skógarhöggsmaður sagði þeim hvar þrælahaldararnir voru.
 - Fundu Dereðu trén.
+- María Erla er Bard hjá spörfuglunum.

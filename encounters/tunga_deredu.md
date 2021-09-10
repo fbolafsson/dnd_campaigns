@@ -24,9 +24,9 @@ Grafarajarðar efnungarnir eru tveir.
 
 ### 2. Göngin
 Göngin fara djúpt niður fyrir skógargólfið. Loftið hér er þykkt og angar af 
-rottnandi holdi og eldsbruna. Egglaga sveppir vaxa hér og þar, frá þeim skýn dauft blátt 
-ljós sem lýsir upp göngin. Hvítar rætur af gróðrinum fyrir ofan ykkur sliðast
-eftir loftinu.
+rottnandi holdi og eldsbruna. Egglaga sveppir vaxa hér og þar, frá þeim skýn 
+dauft blátt ljós sem lýsir upp göngin. Hvítar rætur af gróðrinum fyrir ofan 
+ykkur sliðast eftir loftinu.
 
 Sveppina má týna en þeir missa ljómann sinn eftir klukkutíma
 

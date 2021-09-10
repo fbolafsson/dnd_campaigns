@@ -22,3 +22,13 @@ Eftir að Bósarnir léku á skógardrekann, og stálu [Ljóma](/items/ljomi.md)
   tré hafa verið hoggin.
 - Bósarnir ættu að komast til Hrafnagarðs.
   - Ættu að hitta sölumann sem býður þeim að kaupa orkukristal.
+- Ef bósarnir brunuðu beint í Hrafnagarða þá bláklukku sessjón
+- Ef þeir klára bláklukkurnar strax þá Hitta þeir Hrafn og hann biður þá um að 
+  redda kisu vini sínum...
+
+### Úrvinda
+- Lentu illa í Náætum við ótta þegar þeir gistu nóttina.
+- Hittu álfana sem voru grafa félaga sinn.
+- Fundu Þúluss og félaga og slátruðu án þess að tala nokkuð við þá. 
+- Bósarnir finna bréf til Þúluss sem segir eitthvað um hvað Þúluss átti að 
+  gera.
