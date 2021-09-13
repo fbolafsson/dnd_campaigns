@@ -32,3 +32,5 @@ Eftir að Bósarnir léku á skógardrekann, og stálu [Ljóma](/items/ljomi.md)
 - Fundu Þúluss og félaga og slátruðu án þess að tala nokkuð við þá. 
 - Bósarnir finna bréf til Þúluss sem segir eitthvað um hvað Þúluss átti að 
   gera.
+- Fundu bækur návaka og þeir ættu að fá einhverja galdra þaðan, áhersla á 
+  necromancy, divination og enchantment.
