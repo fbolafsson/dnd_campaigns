@@ -26,9 +26,11 @@ Eftir að Bósarnir léku á skógardrekann, og stálu [Ljóma](/items/ljomi.md)
 - Ef þeir klára bláklukkurnar strax þá Hitta þeir Hrafn og hann biður þá um að 
   redda kisu vini sínum...
 
-### Úrvinda
+## Úrvinda
 - Lentu illa í Náætum við ótta þegar þeir gistu nóttina.
 - Hittu álfana sem voru grafa félaga sinn.
+  - Márus varð nafnið á álfinum sem dó, þar sem nafn álfsins sem þeir töluðu 
+    við kom ekki til tals.
 - Fundu Þúluss og félaga og slátruðu án þess að tala nokkuð við þá. 
 - Bósarnir finna bréf til Þúluss sem segir eitthvað um hvað Þúluss átti að 
   gera.
