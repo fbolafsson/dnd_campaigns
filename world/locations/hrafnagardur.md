@@ -60,4 +60,6 @@ aðaðstéttarinnar og þeirra sem þurfa að vinna.
 18. Setur aðalsmanns
     - Þetta verður aðalsetur [Æðakerfisins](/factions/aedakerfid.md). 
     - Gæti haft ættarnafnið Norberg, Mýrmann, Skógalín, Hagan
+    - Þetta ætti að vera kona og [Blóðnorn](
+      https://www.dndbeyond.com/monsters/blood-witch)
 19. Götumarkaður
