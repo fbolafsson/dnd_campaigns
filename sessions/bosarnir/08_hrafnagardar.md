@@ -7,13 +7,10 @@ leggja af stað til Hrafnagarða
 - Bækurnar sem þeir fundu hjá Návökunum
   - 1st level
     - Comprehend language
-    - Detect magic
     - False life
   - 2nd level
     - Blindness/deafness
-    - Gentle Repose
     - Hold Person
-    - Locate object
   - 3rd level
     - Animate dead
     - Clairvoyance
@@ -52,7 +49,7 @@ leggja af stað til Hrafnagarða
 3. Vændishúsið er í eigu Rítu.
 4. Fangelsið er rekið af Rítu og hún notar það til að kinda galdrana sína og
    framkvæma alls konar tilraunir.
-5. Sölnaði skógurinn er vegna óhapps sem gerðist í orkukristalnámu.
+5. Sölnaði skógurinn í norðri er vegna óhapps sem gerðist í orkukristalnámu.
 6. Orkukristalarnir eru framleiddir með því að sjúga ævitré og ævitré eru
    eftirlíf álfanna.
 7. Dvergar áttu mikið konungsveldi í Dimmuborgum en skepnur úr jörðinni lögðu
