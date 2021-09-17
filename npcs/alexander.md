@@ -14,9 +14,8 @@ land hans og titla sem þóknun og varð það markgreifinn.
 
 ### Afkomendur
 - [Eiríkur](/npcs/eirikur.md) - Riddari Lyngdals, stjórnar í fjarveru Alexanders
-
-- Valentínus - Riddari (Paladin) [Reglu Helíosar](/factions/regla_helios.md)
-
+- Almar Tvíburabróðir Eiríks og stjórnar Lyngdalskastala í fjarveru Alexanders
+- Valentínus - Foringi riddara (Paladin) [Reglu Helíosar](/factions/regla_helios.md)
 - [Eggert](/npcs/eggert.md) - Blood mage
 
 ## Afskipti við spilara

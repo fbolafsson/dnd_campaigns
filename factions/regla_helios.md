@@ -30,6 +30,24 @@ Atli prestur frá [Lindum](../world/locations/lindir.md)
 Atli prestur, var ekki merkileg hjálp við spilarana og virkaði aðallega bara
 kalkaður.
 
+## Titlar
+
+### Klerkar
+- Erki biskup
+- Biskup
+- Rektor
+- Prestur
+- Djákn
+- Munkur
+
+### Riddarar
+- Erki meistari
+- Meistari
+- Foringi
+- Riddari
+- Liðþjálfi
+- Skósveinn
+
 ## Leyndarmál
 Hátt settir óttast að þeir þurfa að breytast með tímunum og er þeim mjög 
 umhugað að verða ekki úreltir.

@@ -21,6 +21,7 @@ Markmið
 - [Alexander](/npcs/alexander.md)
 - Eiríkur
 - Almar
+- Valentínus
 - [Eggert](/npcs/eggert.md)
 
 ## Viðmót

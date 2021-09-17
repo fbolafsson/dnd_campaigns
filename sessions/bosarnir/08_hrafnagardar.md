@@ -30,7 +30,7 @@ leggja af stað til Hrafnagarða
   > 
   > P.s. Vinsamlegast ekki borða þrælana.
   > 
-  > Kveðja, Návarður Belshazzar 
+  > Kveðja, Návarður Belshazzar
 
 ## Væntingar
 - Fara til [Hrafnagarða](/world/locations/hrafnagardur.md)
@@ -45,3 +45,18 @@ leggja af stað til Hrafnagarða
     hliðið t.d.
   - Það er vitað að menn sem passa við þeirra lýsingar drápu Eggert Lyngdal og
     þeir eru eftirlýstir, ef þeir nást þá ættum við að fara í 
+
+## Leyndarmál
+1. Ríta Norðberg kom Eggert í kynni við Æðakerfið.
+2. Ríta Norðberg er Blóðnorn fyrir Æðakerfið.
+3. Vændishúsið er í eigu Rítu.
+4. Fangelsið er rekið af Rítu og hún notar það til að kinda galdrana sína og
+   framkvæma alls konar tilraunir.
+5. Sölnaði skógurinn er vegna óhapps sem gerðist í orkukristalnámu.
+6. Orkukristalarnir eru framleiddir með því að sjúga ævitré og ævitré eru
+   eftirlíf álfanna.
+7. Dvergar áttu mikið konungsveldi í Dimmuborgum en skepnur úr jörðinni lögðu
+   veldi þeirra í rúst.
+8. María Erla er eigandi ölstofunnar og hún er hliðhollur meðlimur 
+   spörfuglanna.
+9. 
