@@ -1,4 +1,4 @@
-# Konunglega Samfélag Miklagarðs Í Málefnum Framandi Eignamiðlunar
+# Konunglega Félag Miklagarðs Í Málefnum Framandi Eignamiðlunar
 
 ## Markmið
 Safna framandi hlutum í heiminum og koma þeim í réttar hendur fyrir rétt verð.

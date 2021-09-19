@@ -17,11 +17,15 @@ leggja af stað til Hrafnagarða
 - Ég gleymdi að minnast að það væri rotnandi maður meðal þeirra í horninu hjá 
   eldstæðinu.
 - Bréfið til Þúluss
+
   > Kapteinn Þúluss 
   > 
   > Þú ert beðin um að fylgja Batrun og Hyarum inn í Mörkina í Miklagarði. 
   > Þeir hafa það verkefni að hafa samband við anda í skóginum og fá hann til
-  > að svara einhverjum af spurningum okkar. Þeir þekkja smáatriðin.
+  > að svara spurningum okkar. Þeir þekkja smáatriðin.
+  > 
+  > Þið ættuð að geta keypt fleiri þræla í fangelsinu í Hrafnagörðum þar sem 
+  > þið eigið væntanlega leið þar í gegn - við erum með samkomulag þar.
   > 
   > Gangi ykkur vel og megi Drottningin vaka yfir ykkur.
   > 
@@ -38,22 +42,40 @@ leggja af stað til Hrafnagarða
       - Blár kristall sem virðist næstum því vera fljótandi vegna þess hvernig
         ljósið brotnar á honum.
       - Ég þarf að ákveða hvað þetta gerir - það þarf að vera eitthvað gott.
+        - Artificerar ættu aðallega að vera þeir sem nota hann.
   - Þeir ættu að sjá einhverjar automatur sinna verkum í borginni. E.t.v. við 
     hliðið t.d.
   - Það er vitað að menn sem passa við þeirra lýsingar drápu Eggert Lyngdal og
-    þeir eru eftirlýstir, ef þeir nást þá ættum við að fara í 
+    þeir eru eftirlýstir, ef þeir nást þá ættum við að fara í jailið og vera 
+    dæmdir af Eiríki
+  - Þeir reyna sennilega að sleppa.
+  - Kannski reyna þeir að brjóta Örn út úr jailinu - nota þá prison tower 
+    kortið.
+  - Reyna þeir að flýja Hrafnagarða þá ætti að koma stormur sem þvingar þá í 
+    Ævintýrið með norninni.
 
 ## Leyndarmál
-1. Ríta Norðberg kom Eggert í kynni við Æðakerfið.
-2. Ríta Norðberg er Blóðnorn fyrir Æðakerfið.
-3. Vændishúsið er í eigu Rítu.
-4. Fangelsið er rekið af Rítu og hún notar það til að kinda galdrana sína og
-   framkvæma alls konar tilraunir.
-5. Sölnaði skógurinn í norðri er vegna óhapps sem gerðist í orkukristalnámu.
-6. Orkukristalarnir eru framleiddir með því að sjúga ævitré og ævitré eru
-   eftirlíf álfanna.
-7. Dvergar áttu mikið konungsveldi í Dimmuborgum en skepnur úr jörðinni lögðu
-   veldi þeirra í rúst.
-8. María Erla er eigandi ölstofunnar og hún er hliðhollur meðlimur 
-   spörfuglanna.
-9. 
+1. Ríta Norðberg er blóðnorn sem kom Eggert í kynni við Æðakerfið.
+2. Ríta rekur vændihúsið fyrir hönd Æðakerfisins.
+3. Valentínus Foringi Riddara Helíosar er Bróðir Eiríks.
+4. Eiríkur og Ríta vita að fölur Skrattakollur að nafni Braga, ungur maður að 
+   nafni Bjartur og álfur drápu Eggert og félaga hans.
+5. Safabakki hefur lýst eftir fölum skrattakolli með kristal sverð og 
+   förunautum hans.
+6. Sölnaði skógurinn í norðri tortýmdist við óhapp í orkukristalsnámugreftri.
+7. María Erla eigandi Ölstofunnar er hliðholl spörfuglunum.
+8. Kaup á þrælum er ólögleg í Miklagarði en þegnar Angurmerkur geta farið 
+   framhjá því og kaupa stundum fanga þræla úr fangelsinu í Hrafnagörðum.
+9. Örn meðlimur spörfuglanna er fangi í Fangelsi hrafnagarðs.
+10. Fangelsið er rekið af Eignamiðlun og þeir hafa samninga við Æðakerfið
+
+## Úrvinda
+- Lentu í Kviktígrum á fyrstu nótt.
+- Lentu í Choldrith á fyrstu nótt.
+- Bjartur sagði "Ég er Bjartur og þetta er Bragi, við ætlum að gista í 
+  Ölstofunni" við fólkið við hliðið.
+- Töluðu við Eirík Lyngdal og spurðu hvort þeir (sem fólk Angurmerkur) mættu 
+  kaupa þræla.
+- Dofri, Blásteinn seldi þeim Örn.
+  - Lét þá skrifa undir sáttmála að þeir gætu ekki verið ábyrgir fyrir því að 
+    Örn myndi ekki hlíða.

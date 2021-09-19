@@ -19,9 +19,9 @@ Markmið
 
 ## Meðlimir
 - [Alexander](/npcs/alexander.md)
-- Eiríkur
-- Almar
-- Valentínus
+- Eiríkur - Sér um Hrafnagarða í fjarveru Alexanders. 
+- Almar - Sér um Lyngdals kastala í fjarveru Alexanders, Tvíburi Eiríks.
+- Valentínus - Foringi Riddara Reglu Helíosar.
 - [Eggert](/npcs/eggert.md)
 
 ## Viðmót
