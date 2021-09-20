@@ -70,10 +70,15 @@ leggja af stað til Hrafnagarða
 10. Fangelsið er rekið af Eignamiðlun og þeir hafa samninga við Æðakerfið
 
 ## Úrvinda
+- Hittu 10 þræla - flestir voru frá Angurmörk, Tómas og Hörður voru þrælar frá 
+  Hrafnagarði - Þeir lögðu af stað til Silfurós með flekanum.
 - Lentu í Kviktígrum á fyrstu nótt.
 - Lentu í Choldrith á fyrstu nótt.
-- Bjartur sagði "Ég er Bjartur og þetta er Bragi, við ætlum að gista í 
-  Ölstofunni" við fólkið við hliðið.
+- Þeir gáfu nöfnin sín við hliðið þegar þeir komu í Hrafnagarða.
+  - Bragi
+  - Bjartur
+  - Andri Nikulásson
+- Etjuðust við partýgalsana.
 - Töluðu við Eirík Lyngdal og spurðu hvort þeir (sem fólk Angurmerkur) mættu 
   kaupa þræla.
 - Dofri, Blásteinn seldi þeim Örn.
