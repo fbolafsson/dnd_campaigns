@@ -64,9 +64,12 @@ leggja af stað til Hrafnagarða
    förunautum hans.
 6. Sölnaði skógurinn í norðri tortýmdist við óhapp í orkukristalsnámugreftri.
 7. María Erla eigandi Ölstofunnar er hliðholl spörfuglunum.
+   - Lært
 8. Kaup á þrælum er ólögleg í Miklagarði en þegnar Angurmerkur geta farið 
    framhjá því og kaupa stundum fanga þræla úr fangelsinu í Hrafnagörðum.
+   - Lært
 9. Örn meðlimur spörfuglanna er fangi í Fangelsi hrafnagarðs.
+   - Lært
 10. Fangelsið er rekið af Eignamiðlun og þeir hafa samninga við Æðakerfið
 
 ## Úrvinda
@@ -81,6 +84,7 @@ leggja af stað til Hrafnagarða
 - Etjuðust við partýgalsana.
 - Töluðu við Eirík Lyngdal og spurðu hvort þeir (sem fólk Angurmerkur) mættu 
   kaupa þræla.
+  - Bragi þóttist heita Braggus sonur Þraxos
 - Dofri, Blásteinn seldi þeim Örn.
   - Lét þá skrifa undir sáttmála að þeir gætu ekki verið ábyrgir fyrir því að 
     Örn myndi ekki hlíða.
