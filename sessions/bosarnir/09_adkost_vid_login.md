@@ -78,6 +78,7 @@ Bósarnir komast að því að það eru afleiðingar fyrir gjörðum sínum
 1. Búi er meðlimur Æðakerfisins. Hann beið eftir Eggerti á Hlynvöllum og notar
    frásögn íbúa Linda gegn spilurunum.
 2. Sölnaði skógurinn í Norðri er út af misheppnaðari orkukristalsnámu.
+   - Lært
 3. Safabakki hefur lýst eftir fölum skrattakolli með kristal sverð og 
    förunautum hans.
 4. Ríta Norðberg er hringstýra Æðakerfis kaflanum í Hrafnagarði - hún kom 
@@ -85,6 +86,7 @@ Bósarnir komast að því að það eru afleiðingar fyrir gjörðum sínum
 5. Ríta rekur vændishúsið og notar það til að framkvæma allst konar óheilagar 
    athafnir.
 6. Dreki réðst á Safabakka
+   - Lært
 7. Það bjuggu dvergar í hellunum i dimmu borgum, en þeir voru hraknir á brott 
    af einhverjum skepnu úr djúpinu.
 8. Kambhnoðrinn getur tengt þig við Astral hafið - hugarheimurinn
