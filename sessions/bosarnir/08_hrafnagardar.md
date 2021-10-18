@@ -82,9 +82,11 @@ leggja af stað til Hrafnagarða
   - Bjartur
   - Andri Nikulásson
 - Etjuðust við partýgalsana.
+  - Eignuðust Matreiðslubók Bobba.
 - Töluðu við Eirík Lyngdal og spurðu hvort þeir (sem fólk Angurmerkur) mættu 
   kaupa þræla.
   - Bragi þóttist heita Braggus sonur Þraxos
 - Dofri, Blásteinn seldi þeim Örn.
   - Lét þá skrifa undir sáttmála að þeir gætu ekki verið ábyrgir fyrir því að 
     Örn myndi ekki hlíða.
+- 

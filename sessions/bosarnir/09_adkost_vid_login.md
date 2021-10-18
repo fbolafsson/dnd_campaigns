@@ -72,7 +72,7 @@ Bósarnir komast að því að það eru afleiðingar fyrir gjörðum sínum
 - Sölnaði skógurinn í norðri
 - Mikli markaðurinn í Safabakka
   - Þarf að vera með eitthvað tilbúið um Hertogann 
-- 
+    - Anton Kolka kannski
 
 ## Leyndarmál
 1. Búi er meðlimur Æðakerfisins. Hann beið eftir Eggerti á Hlynvöllum og notar
@@ -92,3 +92,17 @@ Bósarnir komast að því að það eru afleiðingar fyrir gjörðum sínum
    þjáningu annarra.
 10. Þegar krafturinn er soginn úr Ævitrjánum þá er alltaf verið að stiga skrefi
     nær því að vekja Dereðu.
+
+## Úrvinda
+- Sveinn, Skógsveinn bogamaður.
+- Brandur, Riddari Miklagarðs.
+- Bósarnir flýja Miklagarð.
+  - Rotuðu Svein.
+- Bjartur talar um að Hrafn og Spörfuglarnir ætluðu að ræna einhvern vagn á
+  mikla norðurveginum því það var eitthvað mjög merkilegt í honum.
+- Ringlaði Reynirinn.
+  - Black viber x3 réðust á þá.
+  - Sasha, Jafet, Kesha.
+    - Þeir drápu Keshu.
+    - Stálu hestunum þeirra.
+- Fundu griffon turninn.
