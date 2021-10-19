@@ -29,3 +29,12 @@ Viðmót við spilara.
 
 ## Leyndarmál
 Einhver leyndarmál?
+
+
+## blazon
+![Lyngdal](/resources/Lyngdal.png)
+Per Chevron inverted or and vert
+//a label horizon argent in chief,
+a lion gules 
+armed or
+//a crescent argent in base,

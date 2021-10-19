@@ -10,3 +10,23 @@ family.
 
 ### Flaws 
 I secretly believe that everyone is beneath me.
+
+### blazon
+Vert, a Saltire purpure, 
+an eagle sable,
+armed and beaked Or,
+crowned or,
+legged or
+
+#### Nýja
+
+Vert, a Saltire Sable, 
+an eagle or,
+armed gules,
+crowned or, 
+beaked gules,
+//legged gules,
+langued gules
+
+
+
