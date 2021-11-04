@@ -108,3 +108,4 @@ Bósarnir komast að því að það eru afleiðingar fyrir gjörðum sínum
     - Þeir drápu Keshu.
     - Stálu hestunum þeirra.
 - Fundu griffon turninn.
+- Orkusteinarnir eru kallaðir Sálarsteinar
