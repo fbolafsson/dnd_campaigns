@@ -3,19 +3,32 @@ White Plume Mountain
 
 ```
 Leitin há og leitin lág
-einskis leiðir þér
-nema þá þið hlýðið á
-"Vopnin þrjú hjá mér"
+leiðir einskis þér
+Vera má þú viljir fá
+vopnin þrjú hjá mér
 
-Norðan skóg og valla,
-eim haug skaltu klífa
-frá sólu láttu falla,
+Norðan merkur, niðavalla
+næst skal eimhaug klífa
+langt frá sólu lát þig falla,
 glötun ljóss og lífa
 
-Ef bjarga viltu Byr
-þá berstu við bubblu dýr.
-Syðst í keðju skraði
-frá geysum situr Barði
+Ef djarfur viltu bjarga Byr
+berstu þá við freyðidýr.
+Þar helli innst í Hlekkjaskarði
+handan hvera situr Barði
 
+Á haus sér stendur húsið eitt
+þar Holbrodd munuð bera.
+Þið haldið nú sé gengið greitt
+en gíslar munuð vera 
 
+Ég skeyti eng'um eignarétt
+á óskagripum þessum
+mér rúmi mun það liggja létt
+þá láta étna' af fressum
+
+Ef geri einhver tilkall til
+og taka vill minn auð
+þeim kasta mun í heljarhyl
+eð' halda þeim í nauð
 ```
