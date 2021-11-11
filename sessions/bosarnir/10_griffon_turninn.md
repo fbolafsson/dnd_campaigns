@@ -32,7 +32,7 @@ bróðir hans.
 - Silfur dreki að nafninu Alþalúsíon bauðst til að hjálpa íbúum Safabakka að 
   sigrast á fylgsninu.
   - Silfurdrekinn er Rhýmnir í dulargerfi.
-- Kambhnoðrinn getur tengt fólk við hugarheiminn.
+- Kambhnoðrinn getur tengt fólk við draumaheiminn.
 - Angurmörk er að plana það að nota alla uppvakningana til að snúast gegn þeim
   gegn þeim sem hafa keypt þjónustu þeirra og ráðast á Miklagarð.
 - Rauða húsið er herragarður í útjarðri skógarins sunnan við Safabakka (
@@ -40,6 +40,8 @@ bróðir hans.
   - Meðlimir Spörfuglanna hafa starfað þar.
   - Meðlimir aðalsstéttarinnar í Safabakka vita flestir hvar það er. 
 - Eitthvað alvarlega fucked up er að gerast á sölnaða svæðinu.
+- Angurmörk ætlar að nota uppvakningana til að ráðast á Miklagarð.
+- 
 
 ## Viðhengi
 ### Eftirlýstir
@@ -78,7 +80,7 @@ Nælurnar tvær sem fylgdu bréfinu munu þjóna tilgangi aðgangsmiða.
 
 Ekki týna þeim. 
 
-Þér munið ekki komast inn án þeirra og þið fáið ekki fá aðrar. 
+Þér munið ekki komast inn án þeirra og þið fáið ekki aðrar. 
 
 Adam 
 ```
