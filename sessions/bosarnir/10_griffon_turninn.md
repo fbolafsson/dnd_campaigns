@@ -24,24 +24,32 @@ bróðir hans.
 - Finna bréf til blóðvitkans. 
   - Honum er boðið á grímuball.
 
+## Líkleg mönster
+- Æðakerfið
+  - [Blood hunter](https://www.dndbeyond.com/monsters/blood-hunter) CR 5
+  - [Flame guard](https://www.dndbeyond.com/monsters/eternal-flame-guardian) 
+    CR 2
+  - [Blood witch](https://www.dndbeyond.com/monsters/blood-witch) CR 7
+
 ## Leyndarmál
-- Virtir einstaklingar innan æðakerfisins eru nánast alfarið af aðalstéttinni.
-- Hertoginn í Safabakka er að leita að Fölum Skrattakolli með kristal sverð og
-  förunautum hans.
-  - Eru þeir eftirlýstir eða vill hann bara spjalla?
-- Silfur dreki að nafninu Alþalúsíon bauðst til að hjálpa íbúum Safabakka að 
-  sigrast á fylgsninu.
-  - Silfurdrekinn er Rhýmnir í dulargerfi.
-- Kambhnoðrinn getur tengt fólk við draumaheiminn.
-- Angurmörk er að plana það að nota alla uppvakningana til að snúast gegn þeim
-  gegn þeim sem hafa keypt þjónustu þeirra og ráðast á Miklagarð.
-- Rauða húsið er herragarður í útjarðri skógarins sunnan við Safabakka (
-  Reiðskógur).
-  - Meðlimir Spörfuglanna hafa starfað þar.
-  - Meðlimir aðalsstéttarinnar í Safabakka vita flestir hvar það er. 
-- Eitthvað alvarlega fucked up er að gerast á sölnaða svæðinu.
-- Angurmörk ætlar að nota uppvakningana til að ráðast á Miklagarð.
-- 
+1. Virtir einstaklingar innan æðakerfisins eru nánast alfarið af aðalstéttinni.
+2. Hertoginn í Safabakka er að leita að Fölum Skrattakolli með kristal sverð og
+   förunautum hans.
+   - Eru þeir eftirlýstir eða vill hann bara spjalla?
+3. Silfur dreki að nafninu Alþalúsíon bauðst til að hjálpa íbúum Safabakka að 
+   sigrast á fylgsninu.
+   - Silfurdrekinn er Rhýmnir í dulargerfi.
+4. Kambhnoðrinn getur tengt fólk við draumaheiminn.
+5. Angurmörk er að plana það að nota alla uppvakningana til að snúast gegn þeim
+   gegn þeim sem hafa keypt þjónustu þeirra og ráðast á Miklagarð.
+6. Rauða húsið er herragarður í útjarðri skógarins sunnan við Safabakka (
+   Reiðskógur).
+   - Meðlimir Spörfuglanna hafa starfað þar.
+   - Meðlimir aðalsstéttarinnar í Safabakka vita flestir hvar það er. 
+7. Eitthvað alvarlega fucked up er að gerast á sölnaða svæðinu.
+8. Angurmörk ætlar að nota uppvakningana til að ráðast á Miklagarð.
+9. Einhver vísun í reiðmennina úr grandmothers fire - kannski er skógurinn að 
+   að nota anda þeirra sem hafa dáið í honum til að verja sig gegn mönnunum?
 
 ## Viðhengi
 ### Eftirlýstir
@@ -66,14 +74,14 @@ bróðir hans.
 
 ### Boð í Grímuball
 ```
-Snæbjörn Víðiskíri
+Til Snæbjörns Víðiskíri
 
 Yður ásamt konu yðar, Yrsu er boðið á Grímuballið í Rauða húsinu á fyrsta degi 
 Ýlirs. Yður er gert að útbúa yðar eigin grímu og klæðnað, en gríman þarf að 
 hylja alveg persónugreinaleg einkenni yðar og svört skykkja með hettu skal vera 
 partur af klæðburði yðar. 
 
-Athugaðið að þarna verður mikið af heldra fólki þannig vinsamlegast reynið ekki 
+Athugið að þarna verður mikið af heldra fólki þannig vinsamlegast reynið ekki 
 að smána samtökin.
 
 Nælurnar tvær sem fylgdu bréfinu munu þjóna tilgangi aðgangsmiða. 
@@ -82,5 +90,5 @@ Ekki týna þeim.
 
 Þér munið ekki komast inn án þeirra og þið fáið ekki aðrar. 
 
-Adam 
+Kveðja, Adam 
 ```

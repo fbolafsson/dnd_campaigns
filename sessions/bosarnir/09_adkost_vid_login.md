@@ -61,7 +61,7 @@ Bósarnir komast að því að það eru afleiðingar fyrir gjörðum sínum
     - Tveir sennilega hæfilegir fyrir skyndi árás.
 - Æðakerfið
   - [Blood hunter](https://www.dndbeyond.com/monsters/blood-hunter) CR 5
-  - [Flame guard](https://www.dndbeyond.com/monsters/eternal-flame-guardian)
+  - [Flame guard](https://www.dndbeyond.com/monsters/eternal-flame-guardian) CR 2
   - [Blood witch](https://www.dndbeyond.com/monsters/blood-witch) CR 7
 - Eignamiðlun
   - [Razorblast](https://www.dndbeyond.com/monsters/razerblast) CR 5
