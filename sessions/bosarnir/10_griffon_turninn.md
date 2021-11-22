@@ -30,6 +30,8 @@ bróðir hans.
   - [Flame guard](https://www.dndbeyond.com/monsters/eternal-flame-guardian) 
     CR 2
   - [Blood witch](https://www.dndbeyond.com/monsters/blood-witch) CR 7
+- Griffon turninn
+  - [Razorleaf](https://www.dndbeyond.com/monsters/shambling-mound) CR 5
 
 ## Leyndarmál
 1. Virtir einstaklingar innan æðakerfisins eru nánast alfarið af aðalstéttinni.
@@ -92,3 +94,10 @@ Ekki týna þeim.
 
 Kveðja, Adam 
 ```
+
+## Úrspil
+- Fóru í turninn í gegn um tjörnina. 
+- Bjartur fór einu sinni í missjón með Hrafni að ræna aðalsfólk
+- Hrafn sást síðast í Safabakka
+- Fundu bækurnar "Um dreka" og "Framandi grasafræði"
+- enduðu kl 6 og það eru 2 tímar í að þeir mæta til safabakka
