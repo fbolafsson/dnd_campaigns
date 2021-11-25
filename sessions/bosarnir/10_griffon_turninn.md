@@ -100,4 +100,6 @@ Kveðja, Adam
 - Bjartur fór einu sinni í missjón með Hrafni að ræna aðalsfólk
 - Hrafn sást síðast í Safabakka
 - Fundu bækurnar "Um dreka" og "Framandi grasafræði"
-- enduðu kl 6 og það eru 2 tímar í að þeir mæta til safabakka
+- Enduðu kl 4 og það eru 4 tímar í að þeir mæta til safabakka
+- Lashrek gaf bósunum horn sem þeir geta blásið í til að fá þjónustu Lashrekst 
+  og vina hennar einu sinni eða tvisvar
