@@ -109,3 +109,4 @@ Bósarnir komast að því að það eru afleiðingar fyrir gjörðum sínum
     - Stálu hestunum þeirra.
 - Fundu griffon turninn.
 - Orkusteinarnir eru kallaðir Sálarsteinar
+- Fundu tvær grímur
