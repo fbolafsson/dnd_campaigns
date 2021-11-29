@@ -24,6 +24,7 @@ rannsaka betur boðið sem Snæbjörn fékk til í Grímuballið.
 
 ## Leyndarmál
 - Rauðahúsið er Herragarður í reiðskógi (milli Safabakka og Silfurós)
+  - Lært
 - Drekar klekjast úr eggjum sínum sem mannskepnur og alltaf sem karlar, eftir
   fertugt fara þeir að fá vængi og umbreytast upp úr því í drekaham, um sama 
   leiti breytast kynfæri þeirra í kvennkyns kynfæri.
@@ -34,16 +35,31 @@ rannsaka betur boðið sem Snæbjörn fékk til í Grímuballið.
   Hrafnagarða.
 - Einhverjar matraðakenndar skeppnur eru farnar að láta á sér kræla á sölnaða
   svæðinu Norðan við Norðurveginn.
-- Alþa
+- Alþalúsion er Rhýmnir í dulargerfi
 
 ## Útspil
+- Eltu silfurdrekann uppi þegar hann á að hafa verið að berjast við Rhýmnir
+  - Sáu silfurdrekan borða vörð í heilu lagi
+  - Það var enginn annar dreki
+  - Silfur drekinn þekkti þá
+  - Þeir lögðu saman tvo og tvo og fundu út að Alþalúsion væri Rhýmnir í 
+    dulargerfi
+- Gistu hjá Ragnari Skjaldberg - frænda Braga
+  - Hann bað þá um að sækja upplýsingar um Holbrodd hjá eignamiðlun gegn því að
+    hann gæfi þeim upplýsingar um Rauðahúsið
+  - Bragi var ekki ánægður með hann
 - Annað heiti fyrir rauða húsið er Lindigarður
 - Þríburavopnin
   - Byr Barði og Holbroddur
+  - Þríbura hálfguðir báru vopnin
+  - Drápu bróðir Helíosar sem hét Njörður
+  - Lúsius sem bar Holbroddur sló náðarhöggið
+  - Bókasafnsvörðurinn gaf í skyn að Eignarekstur gæti ef til vill notað þetta
+    til að kollvarpa viðbjóðslegri aðalsstéttinni
 - Diðrik af Valsstöðum tók Allt sem var að fá um Þríburavopnin
 - Rauða húsið heit líka Lindigarður.
-- Eigandi Holbrodds var Lúsíus 
+- Eigandi Holbrodds var Lúsíus
 - Drápu Anton Kolku
-  - Sonur hans heitir Andreas Kola og mun taka við honum - hann er um 17 ára 
+  - Sonur hans heitir Andreas Kolka og mun taka við honum - hann er um 17 ára 
     gamall
 - Redduðu svörtum skykkjum og Lögðu af stað til Rauða hússins
