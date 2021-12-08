@@ -36,6 +36,7 @@ rannsaka betur boðið sem Snæbjörn fékk til í Grímuballið.
 - Einhverjar matraðakenndar skeppnur eru farnar að láta á sér kræla á sölnaða
   svæðinu Norðan við Norðurveginn.
 - Alþalúsion er Rhýmnir í dulargerfi
+  - Lært
 
 ## Útspil
 - Eltu silfurdrekann uppi þegar hann á að hafa verið að berjast við Rhýmnir
