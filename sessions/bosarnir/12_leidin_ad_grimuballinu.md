@@ -6,9 +6,9 @@ spilling elítunna.
 ## Tiltekt
 - Áður en bósarnir fara úr Safabakka þurfa þeir að sjá opinbera dauðarefsingu
   þriggja manna
-  - Morðingi
-  - Fíkill
-  - Sódomíti
+  - Morðingi - Markús
+  - Fíkill - Andri 
+  - Sódomíti - Daníel
 - Á leiðinni út sjá þeir uppvakninga vinna í ökrunum.
 
 ## Væntingar
@@ -40,4 +40,11 @@ spilling elítunna.
 - Það eru alfarið aðalsmenn og ríkir kaupmenn að fara í rauða húsið sem gestir
   - Prestastétt Helíosar tekur þátt í þjónustunni.
 - Álfarnir eru að skipuleggja árás á Safabakka.
-- 
+
+## Útspil
+- Bjartur talaði við Svölu sem hvíslaði leyndarmáli að honum um sem við ætlum
+  að afgreiða síðar.
+- Hjálpa Ömmu Lóu
+- Dimitri hjálpaði þeim
+- Amma lóa tók yfir líkama Aðriks
+- Drápu Öluna
