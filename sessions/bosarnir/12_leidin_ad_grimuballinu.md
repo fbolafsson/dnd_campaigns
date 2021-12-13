@@ -28,17 +28,19 @@ spilling elítunna.
     fertugt fara þeir að fá vængi og umbreytast upp úr því í drekaham, um sama 
     leiti breytast kynfæri þeirra í kvennkyns kynfæri.
   - History DC 18: Finnur Fly galdurinn.
+  - Lært
 - Framandi Grasafræði
   - Samhliða kröftugum göldrum og með því að anda að sér reyk þurrkaðs 
     kambhnoðrarótar er hægt fyrir einstakling að ganga allsgáður inn í 
     draumaheiminn.
   - History DC 18: Silvery Barbs galdurinn.
+  - Lært/ekki silvery barbs samt
 - Matraðarskeppnur eru farnar að láta á sér kræla frá sölnaða svæðinu.
 - Afhverju Amma Lóa fékk gallið.
   - Með tíð og tíma eitrar drep allan líkamann, Dereða er ekkert öðruvísi.
 - Aðrik var drifinn af eintómri græðgi þegar hann reyndi að bjarga Lóu
 - Það eru alfarið aðalsmenn og ríkir kaupmenn að fara í rauða húsið sem gestir
-  - Prestastétt Helíosar tekur þátt í þjónustunni.
+- Prestastétt Helíosar tekur þátt í þjónustunni.
 - Álfarnir eru að skipuleggja árás á Safabakka.
 
 ## Útspil
