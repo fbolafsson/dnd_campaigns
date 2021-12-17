@@ -21,6 +21,11 @@ handan hvera situr Barði
 þar Holbrodd munuð bera.
 Þið haldið nú sé gengið greitt
 en gíslar munuð vera 
+////
+Á haus sér stendur húsið eitt
+þar hulin Ódæði sverða
+Þið haldið nú sé gengið greitt
+en gíslar munið verða
 
 Ég skeyti eng'um eignarétt
 á óskagripum þessum

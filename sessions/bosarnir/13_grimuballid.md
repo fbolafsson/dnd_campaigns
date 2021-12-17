@@ -2,6 +2,15 @@
 
 Bósarnir stelast á grímuball æðakerfisins.
 
+### Tiltekt
+- Prestarnir sem voru að brenna mennina sögðu að drekinn væri merki um að 
+  Helíos væri að refsa borginni fyrir syndugan lifnaðarhátt það þyrfti að setja
+  fordæmi og það mun ekki líðast áfram.
+  - Prestarnir voru allir klæddir í hvítum kuflum og riddararnir í hvítum 
+    skykkjum og næstum öklasíðum kjólum.
+- Gleymdi að taka fram að Höfundurinn var Urður af Kóngsbakka og tileinkaði 
+  bókinni til Jötunkóngsins Þorgeirs.
+
 ### Lausir endar
 - Amma Lóa er að nota líka Aðriks, henni vantar eiginlega annan líkama, nema að
   hún sé tilbúin að drepa Aðrik en hún kærir sig ekkert sérstaklega um að vera
@@ -18,7 +27,20 @@ Bósarnir stelast á grímuball æðakerfisins.
   - Lista hluti sem gætu átt sér stað á ballinu.
 - Adam heldur ræðu um alsælu og þjáningu.
 - Adam framkvæmir athöfn sem felur í sér að fórna fólki og opna hlið til 
-  helvítis sem kallar fram ára.
+  helvítis sem kallar fram [ára](
+  https://www.dndbeyond.com/monsters/master-of-cruelties) CR 9. ![árinn](
+  /resources/slaanesh.jpg)
+  - talað um árann sem Varúnann.
+  - Sverðið krefst þess af Braga að hann ráðist á Varúnann.
+- Ætti að vera séns að þeir verða dregnir til helvítis?
+  - Þá ætti ævintýri að byrja þar sem þeir þurfa að koma sér aftur til Miðgarðs
+- Einhver mætir þeim sem vill fara leik, leyndarmál fyrir leyndarmál
 
 ## Leyndarmál
-- 
+- Matraðarkenndar skepnur hafa látið á sér krauma norðan mikla norðurvegarins.
+  - Markgreifinn og Hertoginn hafa reynt að halda því bældu með hjálp 
+    Konunglegs félags Miklagarðs í málefnum framandi eignamiðlunnar.
+- Sonur Sindra er hér. (Arnljótur)
+  - Sonur vorum æruvirðulega Konungur Miklagarðs Sindri Annar nafns síns og 
+    verndari mannheims.
+  
