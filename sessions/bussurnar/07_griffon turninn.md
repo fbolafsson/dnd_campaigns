@@ -31,3 +31,11 @@ Eftir að bússurnar etjast við tannþrautina fá þeir undarlega ósk frá kis
 - Boggamma sér að þau eru verðug og segir þeim að hún eigi vin sem þarf á fólki
   eins og þeim að halda
   - Fer með þau í kofann sinn og sýnir þeim kisuna Lashrek
+
+## Útspil
+- Drápu Kóng Úlfanna, björguðu Boggu og Stínu
+  - Fengu pottinn í gjöf.
+- Fundu duðan buggubjörn hjá verndaranum ásamt fullt af pening
+- fundu *Framandi grasafræði*, *Um dreka* og ljíðið fyrir [Reykfjall](
+  /encounters/reykfjall.md)
+- Enduðu við hlerann að eggjunum.
