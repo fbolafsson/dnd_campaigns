@@ -19,6 +19,8 @@ Bósarnir stelast á grímuball æðakerfisins.
     vill gætu það verið fólk sem á leiðinni á grímuballið.
 
 ## Væntingar
+- Amma Lóa gerir seyðið til að bjarga barni Sandurs.
+  - Sandur nefnir barnið eftir Bjarti - Birtu
 - Bósarnir þurfa að finna hvað þeir ætla að gera til að fá þriðju næluna eða
   komast fram hjá því að þurfa að nota hana.
 - Einhver sem veit að þeir eru eftirlýstir finna þá.
