@@ -45,4 +45,14 @@ Bósarnir stelast á grímuball æðakerfisins.
 - Sonur Sindra er hér. (Arnljótur)
   - Sonur vorum æruvirðulega Konungur Miklagarðs Sindri Annar nafns síns og 
     verndari mannheims.
-  
+
+## Útspil
+- Fengu skykkjuna 
+- Eikhólmur
+  - Græna skóflan er gistiheimilið þeirra.
+  - Kynntust Aðalstein og Sygin Engjasal (Norðan Héraðs)
+  - Amma Lóa tók líkama sygin
+- Drápu Aðalstein á leiðinni á grímuballið.
+- Fréttum af ólýsandi matraðaskepnum sem voru að koma norðan við Mikla 
+  norðurveginn.
+- Réðust á Varúnina - drápu en enduðu í helvíti.

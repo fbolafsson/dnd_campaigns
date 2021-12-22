@@ -29,8 +29,9 @@ rannsaka betur boðið sem Snæbjörn fékk til í Grímuballið.
   fertugt fara þeir að fá vængi og umbreytast upp úr því í drekaham, um sama 
   leiti breytast kynfæri þeirra í kvennkyns kynfæri.
 - Samhliða kröftugum göldrum og með því að anda að sér reyk þurrkaðs 
-  kambhnoðrarótar er hægt fyrir einstakling að ganga allsgáður inn í 
+  kambhnoðrarótar er hægt fyrir einstakling að ganga allsgáður inn í
   draumaheiminn.
+  - Lært
 - Angurmörk er að plana það að nota uppvakningana til að taka yfir Safabakka og
   Hrafnagarða.
 - Einhverjar matraðakenndar skeppnur eru farnar að láta á sér kræla á sölnaða
