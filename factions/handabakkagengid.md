@@ -8,3 +8,4 @@
 - Mikki - Holddróni
 - Nál & Pinni - Impar
 - Barnabas - Logandi höfuðkúpa - Flameskull
+- 

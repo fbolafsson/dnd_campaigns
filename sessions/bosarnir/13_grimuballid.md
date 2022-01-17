@@ -2,7 +2,7 @@
 
 Bósarnir stelast á grímuball æðakerfisins.
 
-### Tiltekt
+## Tiltekt
 - Prestarnir sem voru að brenna mennina sögðu að drekinn væri merki um að 
   Helíos væri að refsa borginni fyrir syndugan lifnaðarhátt það þyrfti að setja
   fordæmi og það mun ekki líðast áfram.
@@ -11,7 +11,7 @@ Bósarnir stelast á grímuball æðakerfisins.
 - Gleymdi að taka fram að Höfundurinn var Urður af Kóngsbakka og tileinkaði 
   bókinni til Jötunkóngsins Þorgeirs.
 
-### Lausir endar
+## Lausir endar
 - Amma Lóa er að nota líka Aðriks, henni vantar eiginlega annan líkama, nema að
   hún sé tilbúin að drepa Aðrik en hún kærir sig ekkert sérstaklega um að vera
   föst með líkama Aðriks.

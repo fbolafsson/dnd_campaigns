@@ -2,7 +2,7 @@
 
 Bósarnir finna sig fasta í helvíti og þurfa að ná áttum og komast út sem fyrst.
 
-### Væntingar
+## Væntingar
 - Sleppa úr virki Varúninnar.
 - Strönduð í risa eyðimerkur landflæmi án vatns og í hryllilegu loftslagi.
 - Rænt af [Mörbelgjunum](/factions/morbelgir.md).
@@ -14,7 +14,7 @@ Bósarnir finna sig fasta í helvíti og þurfa að ná áttum og komast út sem
 - Magga Klikk verður mjög spennt fyrir því að fá að kafa í minningar 
   Slembidrekans.
 
-### Líkleg mönster
+## Líkleg mönster
 - [Stríga](https://www.dndbeyond.com/monsters/stirge) CR 1/8
 - [Skeggdjöfull](https://www.dndbeyond.com/monsters/bearded-devil) CR 3
 - [Vargöltur](https://www.dndbeyond.com/monsters/wereboar) CR 4
@@ -22,7 +22,7 @@ Bósarnir finna sig fasta í helvíti og þurfa að ná áttum og komast út sem
 - [Rauðlubbi](https://www.dndbeyond.com/monsters/redcap) CR 3
 - [Klikklubbi](https://www.dndbeyond.com/monsters/madcap) CR 3
 
-### Útspil
+## Útspil
 - Sluppu frá virki Varúninnar merkilega vel.
 - Sluppu frá Mörbelgjunum merkilega með hjálp Glotta.
 - Glotti fór með þá til Möggu Klikk.
