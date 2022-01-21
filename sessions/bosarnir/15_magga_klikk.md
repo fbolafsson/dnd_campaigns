@@ -1,4 +1,5 @@
 # Magga Klikk
+
 Í leit að grið og leið út úr helvíti hafa hetjurnar okkar leitast við að gera
 samning við Möggu Klikk.
 
