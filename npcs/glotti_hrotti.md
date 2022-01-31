@@ -19,4 +19,4 @@ Eladrin álfur, rauðærður með rautt villt hár, ljós grænleita húð, yfir
 - Bósarnir sendu skilaboð á hann til að hjálpa sér en hann kom aldrei
 - Bósarnir flúðu hann þegar þeir fundu hann fljótlega eftir að brotist frá 
   Handabakka
-- Hann stjórnar núna handabakka.
+- Hann stjórnar núna [Handabakka genginu](/factions/handabakkagengid.md).
