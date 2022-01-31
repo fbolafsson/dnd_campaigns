@@ -70,3 +70,7 @@
   - 1 Glotti er með 96 í líf.
 - Enduðu hinum meginn.
 - Bragi komst að því að sálarkrystallinn er púsl í því að loka hliðinu.
+- Lofaði að þeir fengju level eftir bardagann
+  - Bjartur ætlar að fá sér fey touched featið. 
+    - Ég ætti að reyna að taka það einhvern veginn inn í reikninginn að þeir
+      eru að loka hliðinu.
