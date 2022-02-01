@@ -39,7 +39,7 @@ til að vera mjög óheilbrigðir heilsu utanaðkomandi.
 
 Kveðja, Adam
 
-### Úrvinda 
+### Útspil 
 - Ákváðu að fara til Vatnsenda 
 - Sáu kobolds í saltvatninu
 - Áin hjá Vatnsenda heitir Sárið

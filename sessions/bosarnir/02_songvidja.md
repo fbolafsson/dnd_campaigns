@@ -23,7 +23,7 @@ Lair action að kalla fram Fog cloud
 Weep kallar fram fjórar [Köngulóaúlfa](
 https://www.dndbeyond.com/monsters/fiendish-giant-spider)
 
-### Niðurstaða
+### Útspil
 - Sigruðu Söngviðjuna.
 - [Bragi](/players/bosarnir/bragi.md) borðaði af epli söngviðjunnar og lærði að
   galdra.

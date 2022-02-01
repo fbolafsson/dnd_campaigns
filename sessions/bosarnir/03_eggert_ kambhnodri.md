@@ -60,7 +60,7 @@
 ### Krakkarnir
 - 2: Fyrsta nótt á stígnum
 
-### Úrvinda
+### Útspil
 - Fundu krakkana í skóginum.
 - Brenndu hús Ólaskúla.
 - Drápu Eggert og hans félaga.
