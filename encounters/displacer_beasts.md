@@ -10,8 +10,8 @@
     summa saman gamla meðaltalið + nýja kastið deilt með tveim.
     - Ef gamla meðaltal var 12 og nýja kastið er 16 þá er nýja meðaltalið 14.
   - Kastið:
-    - DC 16 til að fá alla reiti.
-    - DC 15 til að fá 2 reiti - kastað hver.
+    - DC 18 til að fá alla reiti.
+    - DC 16 til að fá 2 reiti - kastað hver.
     - DC 14 til að fá 1 reit - kastað hver.
 - Hver reitur sem er rannsakaður tekur klukkutíma.
 - Á hverjum klukkutíma gera tilfærslurdýrin perception check við stealth 
@@ -19,14 +19,14 @@
 
 ## Gildrur
 ### Bear trap
-- +8 to hit - 1d10 damage. 
+- +8 to hit - 2d10 damage. 
 - DC 15 strength check to free.
 #### Counter
-- DC 10 wisdom (perception) to notice.
-- DC 10 Thieves tools to disable.
+- DC 12 wisdom (perception) to notice.
+- DC 12 Thieves tools to disable.
 
 ### Crossbow trap
-- +8 to hit 1d10 damage.
+- +8 to hit 2d10 damage.
 #### Counter
 - DC 15 wisdom (perception)
 - DC 15 Thieves tools to disable
