@@ -57,7 +57,7 @@ eð' halda þeim í nauð
   - Byr þýðir vindur þannig þetta má auðveldlega rembranda í 
 
 
-## Sphinx vin innganginn
+## Sphinx við innganginn
 ```
 Á silki svörtu - perla
 söm en ham æ skiptir,

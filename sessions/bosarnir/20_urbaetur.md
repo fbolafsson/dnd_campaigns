@@ -39,3 +39,19 @@ Bósarnir sjá að það er margt í þessum heimi sem
    sem hneppti köppum í þrældóm
 10. Glotti vill krýna sig konung Safabakka
     - Er í dulargerfi 45 ára karlmanns með skegg sem kallar sig Bersi Skáld
+
+## Útspil
+- Hluturinn sem andrónikos fann er 
+- Börðu í ringlaða reyninum
+  - Fengu galdra spjót og galdra scimitar
+- Fóru í griffon turninn
+  - Hrafn
+  - Svala
+  - Örn
+  - Haukur
+  - Fálki
+- Skoðuðu bókasafnið í Griffon turninum
+- Fóru í Reykfjall
+- leystu gátuna
+- Drápu freyðidýrið
+  - Bjartur tengdist Byr
