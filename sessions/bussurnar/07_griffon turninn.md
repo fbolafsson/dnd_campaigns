@@ -36,6 +36,6 @@ Eftir að bússurnar etjast við tannþrautina fá þeir undarlega ósk frá kis
 - Drápu Kóng Úlfanna, björguðu Boggu og Stínu
   - Fengu pottinn í gjöf.
 - Fundu duðan buggubjörn hjá verndaranum ásamt fullt af pening
-- fundu *Framandi grasafræði*, *Um dreka* og ljíðið fyrir [Reykfjall](
+- fundu *Framandi grasafræði*, *Um dreka* og ljóðið fyrir [Reykfjall](
   /encounters/reykfjall.md)
 - Enduðu við hlerann að eggjunum.

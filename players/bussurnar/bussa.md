@@ -2,19 +2,19 @@
 ### Spilari: Rakel
 
 ## Lýsing
-[Hobbiti](https://www.dndbeyond.com/races/halfling), [College of Lore Bárður](
-https://www.dndbeyond.com/classes/bard#CollegeofLore).
+[Hobbiti](https://www.dndbeyond.com/races/halfling), [College of Swords Bárður](
+https://www.dndbeyond.com/classes/bard#CollegeofSwords).
 
 ## Bakgrunnur
 Er í pílagrímsferð að læra um heiminn. 
 
 ## Markmið
-Er í sérstakri leit að fornri matreiðslubók sem hefur að geyma 
-yfirnáttúrulega rétti.
+Er í sérstakri leit að fornri matreiðslubók - *Matreiðsluhandbók Mungó 
+Jörmungands* sem hefur að geyma yfirnáttúrulega rétti.
 
 - Blaðsíða úr matreiðslubókinni:
   
-  Ef þú ert með cook's utensils prificiency:
+  Ef þú ert með cook's utensils proficiency:
   - As part of a short rest, you can cook special food, provided you have 
     ingredients and cook’s utensils on hand. You can prepare enough of this 
     food for a number of creatures equal to 4 + your proficiency bonus. At 
