@@ -24,4 +24,10 @@ Bússurnar bjarga griffon ungum
   - Fær blaðsíðu úr Matreiðsluhandbók Mungó Jörmungands.
   - María (eigandi kráarinnar) segir að hún hafi fengið blaðsíðua frá Lóu 
     frænku, gamalli konu sem býr (einhvers staðar sem er í leiðinni)
-  - 
+
+## Útspil
+- Björguðu fuglunum úr turninum. 
+- Lashrek gaf þeim Horn griffonsins.
+- Fengu level.
+- Ætla að læra hvað þau geta um ljóðið.
+- Valtýr Valdberg var blóðvitkinn sem átti turninn.

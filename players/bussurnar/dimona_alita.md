@@ -13,3 +13,6 @@ Chaos
 
 Dímóna er með ögn af Eystra Hjartanu í sér og Baba Yaga mun vilja fá hana til 
 að framlengja líf sitt eins mikið og auðið er.
+
+Var strítt af fólkinu á uppeldisárunum fyrir skottið sitt.
+Vill finna upprunann sinn.
