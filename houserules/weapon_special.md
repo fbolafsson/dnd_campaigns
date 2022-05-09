@@ -26,10 +26,17 @@ critical hit on a 19, if the user would normally score a critical hit on an 19
 the savage property allows the user to score a critical hit on an 18.
 
 ### Long 
-While you are wielding a long weapon, any creature that is not wielding a long weapon (or natural weapon of 10 feet reach) provokes an opportunity attack from you when they enter your reach. If you have the Polearm Master feat, you gain advantage on this roll. You have disadvantage to hit an opponent that is grappling you, or grappled by you, when you attack with a long weapon.
+While you are wielding a long weapon, any creature that is not wielding a long 
+weapon (or natural weapon of 10 feet reach) provokes an opportunity attack from 
+you when they enter your reach. If you have the Polearm Master feat, you gain 
+advantage on this roll. You have disadvantage to hit an opponent that is 
+grappling you, or grappled by you, when you attack with a long weapon.
 
 ### Long (defence) 
-Weapons with the long (defence) property have the same benefits and disadvantages of those with the long property, but with one additional benefit. If you hit a creature with an opportunity attack as they enter your reach, you reduce their speed to zero.
+Weapons with the long (defence) property have the same benefits and 
+disadvantages of those with the long property, but with one additional benefit.
+If you hit a creature with an opportunity attack as they enter your reach, you 
+reduce their speed to zero.
 
 ### Parry
 When you are wielding a weapon with the parry property and a creature you can 
