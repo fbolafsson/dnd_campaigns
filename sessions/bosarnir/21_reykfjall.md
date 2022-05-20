@@ -50,12 +50,15 @@ DC 24 athletics til að brjóta
 ### H8 Grafhýsi
 Yfirnáttúrulegt myrkur Vampíran Steinmýr ræðst á hvern þann sem kemur í myrkrið
 
-### 
-
-
 ## Leyndarmál
 - Diðrik af Valsstöðum er í Reykfjalli og hefur verið hneppt í þrældóm
   af Keraptis - hann teymið hans eru núna með mjög óljósar hugmyndir um 
   hvernig þeir komust þangað 
 - Keraptis er [lich](https://www.dndbeyond.com/monsters/16943-lich)
 
+## Útspil
+- Drápu Ost sem var Oni í dulargerfi
+- Náðu í Holbrodd
+- Sluppu alveg við dýrin í terrariunum
+- Flugu í gegn um hlekkjaskarðið
+- Náðu í Barða
