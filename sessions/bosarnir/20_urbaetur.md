@@ -41,8 +41,8 @@ Bósarnir sjá að það er margt í þessum heimi sem
     - Er í dulargerfi 45 ára karlmanns með skegg sem kallar sig Bersi Skáld
 
 ## Útspil
-- Hluturinn sem andrónikos fann er 
-- Börðu í ringlaða reyninum
+- Hluturinn sem andrónikos fann er einhver ljóssteinn
+- Börðust í ringlaða reyninum
   - Fengu galdra spjót og galdra scimitar
 - Fóru í griffon turninn
   - Hrafn

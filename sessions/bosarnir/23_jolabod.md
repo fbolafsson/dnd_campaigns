@@ -22,3 +22,21 @@ Möggumömmu í Lindum
   - Vilja vinna að því að taka aftur Safabakka
   - Hitta álfana
   - Glotti að plotta eitthvað
+
+## Hugleiðingar
+- Magga Mamma verður eiginlega að hafa skrifað [bréfið til Bjarts](
+  /sessions/bosarnir/19_verold_ny_og_god.md) en einhvern veginn komust þeir að
+  að því hvað væri að frétta. 
+  - Blóðvitkarnir yfirheyrðu Maríu Erlu með zone of truth - María Erla er í 
+    fangelsi
+  - Lyngdælingar skrifuðu bréfið og komu því til Maríu Erlu
+  - María Erla er að vinna með Lyngdælingum til að koma þeim fyrir kattarnef
+  - Blóðvitkarnir geta rakið [Gem of brightness](
+    https://www.dndbeyond.com/magic-items/4642-gem-of-brightness) sem 
+    Andrónikos stal frá blóðvitkunum
+
+## Jólatónlist
+- [Kór](https://www.youtube.com/watch?v=zieoBKkN9qE)
+
+## Leyndarmál
+- Blóðvitkarnir vita hvar bósarnir eru út af birtusteininum hans Andrónikosar.
