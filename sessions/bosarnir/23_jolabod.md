@@ -5,6 +5,7 @@ Möggumömmu í Lindum
 
 ## Væntingar
 - Koma við í Gnúpi og versla kannski
+  - Hitta Diðrik af Valsstöðum
 - Fara í Lindir
   - Ætti eitthvað að gerast á leiðinni
   - Önnu rænt
@@ -17,6 +18,7 @@ Möggumömmu í Lindum
       - Samspil
       - Gjafir?
       - Ræður
+  - Jólaveisla hjá Önnu
 - Næstu skref?
   - Ættu að vilja drepa Rhýmnir
   - Vilja vinna að því að taka aftur Safabakka
@@ -40,3 +42,15 @@ Möggumömmu í Lindum
 
 ## Leyndarmál
 - Blóðvitkarnir vita hvar bósarnir eru út af birtusteininum hans Andrónikosar.
+- Glotti vill verða konungur Safabakka
+- Blóðvitkarnir, Lyngdælingar og Rhýmnir eru að vinna saman til að koma bósunum
+  fyrir kattarnef
+- Daði af Valsstöðum Var með Einkagraftarrétt á Reykjafjalli
+
+## Útspil
+- Hróbert handalangarinn þeirra í Gnúpi.
+- Bjartur gaf út gjafir í nafni Aresar - Byr til mikillar gleði.
+  - Diðrik fann hann og spurði út í gripina hans.
+- Diðrik og félagar réðust á herbergi sem hann hélt að bósarni væru að hvílast í
+- Bósarnir gáfu fólkinu í Lindum gjafir og þeir gáfu þeim gjafir til baka.
+- Rhýmnir kom stal Önnu og bósarnir drápu Rhýmnir.
