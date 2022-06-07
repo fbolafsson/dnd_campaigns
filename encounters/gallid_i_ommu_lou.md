@@ -9,7 +9,7 @@ Gall of the spider crone
   - Systir Ömmu Lóu og eigandi hússins sem á að ræna
 - Sandur (Sandor)
   - Kornung og langveik dóttir hans
-- Aðkomu karvarnir
+- Aðkomu karívarnir
   - Aðrikur
     - Höfuðpaur Aðkomu karvanna
   - Toshka (Tanya) 
@@ -18,10 +18,10 @@ Gall of the spider crone
     - Rurik 
       - Yngri bróðir Aðriks
       - Var sendur ásamt sonum sínum
-    - DimitrÍ (Driskaw)
+    - Dimitrí (Driskaw)
       - Unglings sonur Ruriks
     - Tveir aðrir ónefndir synir Ruriks.
-  - Þrír aðrir menn, þar að meðal unglingssonur Aðrikr
+  - Þrír aðrir menn, þar að meðal unglingssonur Aðriks
   - Tvær konur
 - Eigendur Nornatúttunnar (líka karvar)
   - Vasalí (Vassaly) 
