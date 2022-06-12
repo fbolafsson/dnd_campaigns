@@ -54,9 +54,9 @@ Bósarnir mæta í álfabyggð að hitta Antheu - drottningu álfanna
 
 ## Útspil
 - Bragi bað Antheu 
-- Anthea sagðist ætla að giftast Braga ef hann verður konungur Miklagarðs
-  - Afhjúpaði að Adam eða Adeem væri leiðtogi Blóðvitkanna og aðal 
-    drifkrafturinn í Eignarekstur
+  - Anthea sagðist ætla að giftast Braga ef hann verður konungur Miklagarðs
+- Afhjúpaði að Adam eða Adeem væri leiðtogi Blóðvitkanna og aðal
+  drifkrafturinn í Eignarekstur
 - Drekaskinn
   - Skór með advantage á stealth.
   - Studded leather +2 poison resistance.
