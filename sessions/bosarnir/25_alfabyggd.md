@@ -57,16 +57,22 @@ Bósarnir mæta í álfabyggð að hitta Antheu - drottningu álfanna
   - Anthea sagðist ætla að giftast Braga ef hann verður konungur Miklagarðs
 - Afhjúpaði að Adam eða Adeem væri leiðtogi Blóðvitkanna og aðal
   drifkrafturinn í Eignarekstur
+- Bragi sá spádóm
+  - Sprengdi skuggasteininn með Holbroddi.
+  - Yfir líki föður síns drap hann bróður sinn - óljóst hvernig faðir dó.
+  - Drottna yfir Miklagarði saman.
+  - Bragi drepur fólkið náið sér.
+  - Stýrir Miklagarði með járnhefa, vinalaus og yfirgefinn.
 - Drekaskinn
   - Skór með advantage á stealth.
   - Studded leather +2 poison resistance.
 - Bjartur skipti 2 lesser restoration fyrir 10 +1 örvar
 - Fengu Hero's feast þegar þeir yfirgáfu safabakka
-- Drápu Arkhan
-- Fóru fram hjá sölnuðu svæði sunnan við Hrafnagarða
-  - Áin var orðin rauð eins og hjá Styx
+- Drápu Arkhan.
+- Fóru fram hjá sölnuðu svæði sunnan við Hrafnagarða.
+  - Áin var orðin rauð eins og hjá Styx.
 - Földu fjársjóðinn undir gólfinu í hlöðu sunnan við Safabakka
 - Eru mættir á hliðið fyrir norðan við kastala Safabakka. 
   - Sáu Safabakka iða af Köngulóm á stærð við hunda og skugga sem hreifðust með
-    sjálfstæðum vilja
-  - Sáu Kjaftavánna drottna yfir kastala safabakka
+    sjálfstæðum vilja.
+  - Sáu Kjaftavánna drottna yfir Kastala Safabakka.
