@@ -12,7 +12,7 @@ morðæði sínu nógu lengi til að komast til leiðarenda?
     síðan þá.
 - Lúmur háseti
 - Lalli kokkur
-- Evert Bakkagerði
+- Evert Af Bakkagerði
   - Uppfinningamaður og meðlimur félagsins
   - Fann upp á nýjum vendi
 - Eva Bakkagerði
@@ -33,3 +33,12 @@ morðæði sínu nógu lengi til að komast til leiðarenda?
 - Herkúles Pétur
   - Skeggprúður herramaður, Hercule Perone týpa
   - Rannsóknarmaður
+
+## Útspil
+- Kilmir myrti Evert og þeir náðu að klýna sökinni á Stefán
+- Dímóna fann eitthvað tog inn í mörkina
+- Sigldu í fjóra daga - eiga tvo og hálfan dag eftir til Silfurós
+- Fundu á fjórða degi að engir eldar kveiknuðu.
+- Ódauðir knapar eltu vesælinga að árbakkanum - drápu einn knapa og einn hund
+  ásamt öllum hestunum
+- Enduðum þar sem þeir voru að flýja.
