@@ -45,7 +45,7 @@ haustið eða flýja með skottið milli hælanna.
     - Ég skal ekki borða ykkur núna og ekki heldur þegar þið skilið Glóðunum
   - Getur þú hjálpað okkur?
     - Fyrst þið eruð svona mikil rassgöt að gera þetta fyrir Ömmu gömlu þá skal
-      skulið þið sjá fótspor þjófsins þangað til sólin rís.
+      skulið þið sjá fótspor þjófsins þangað til sólin rís.u
 
 ## Persónur
 - Babbalísa
@@ -56,3 +56,13 @@ haustið eða flýja með skottið milli hælanna.
   - Elskhugi Daníels sem vatnatröll rændi og gerði að lindfrú sinni
 - Vatnatröllið
 
+## Útspil
+- Fengu leiðvísir frá bændunum sem voru að leita að Babbalísu.
+- Fundu Babbalísu og hún sendi þau af stað að leita að Daníel
+- Babbalísa gaf Dímónu hálsmen sem gefur henni charisma bónusinn á öll saving 
+  throw
+- Zonoki ógnaði varúlfunum og það braust út bardagi
+  - Drápu alla nema tvo
+- Kilmir tók kápuna hans Daníels
+- Balazar frelsaði dvergana sjö
+- Daníel er ennþá hlekkjaður en er búinn að segja þeim stöðuna sína.
