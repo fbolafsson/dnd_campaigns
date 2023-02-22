@@ -74,4 +74,3 @@ lindfrúnna hans.
 - Drukku seyðið áður en þau lögðu af stað og hún veitti þeim öllum svari við
   einni spurningu
 - Fóru í bátinn þar sem dvergarnir komu með þeim til Silfurós.
-- 
