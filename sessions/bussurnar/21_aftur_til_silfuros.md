@@ -52,5 +52,19 @@ Bússurnar sigla aftur í Sárinu til Silfurós
       hefur nú verið yfirgefinn
 - Nara var komin á slóð blóðvitkanna og Ríta Norðberg - hátt settur 
       meðlimur blóðvitkanna kom henni fyrir kattarnef.
-- 
+
 ## Útspil
+- Bjólfur var Abjurer galdramaður sem var að sækja eftirlýst auglýsingu 
+  Bússanna, það kom í ljós að hann væri meðlimur æðakerfisins. 
+  - ATH! Fundu bréf á Bjólfi sem er frá Adam sem lýsir því hvað þau vita um
+    bússurnar og afhverju þau hafa áhyggjur af þeim.
+- Brenndu gömlu ölstofuna að hluta
+  - Borguðu Maríu 600 gp og sömdu um að dvergarnir fengu gistingu og mat
+  - María Erla fékk líka galdrabók hans Bjólfs.
+- Kilmir borgaði 50 gp til að fá upplýsingar um Dulúð hjá Eignamiðlun
+  - Karnon Salaris SELDI Dulúð á sínum tíma fyrir 100 árum
+  - Diðrik af Valsstöðum keypti það síðast eftir að kápan var eitthvað búin að
+    fara milli handa, hann var hins vegar drepinn fyrir 5 árum þegar 
+    Skógardrekinn réðst á herragarðinn hans.
+  - Eru þeir annars með eitthvað skemmtilegt
+- Þau ákváðu að fara og sigrast á risunum.
