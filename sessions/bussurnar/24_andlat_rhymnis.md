@@ -22,4 +22,12 @@ Bússurnar hafa murkað Rhýmnir, hvað gerist svo?
 ## Leyndarmál
 - Arkhan er að elta þau og heldur að þau ætli að gefa Torfrisunum Eggin sín
 - <Hver er að plana þessar árásir>
-- 
+
+
+## Útspil
+- Anthea - álfur sem var í gýslingu hjá.
+- Skildu eftir gull, silfur og koparpeninga.
+- Drápu 19 torfrisa.
+- 7 round liðin af Haste hjá.
+- Kilmir hótaði Arkhan að rústa eggjunum.
+- Skoraði Arkhan í einvígi.
