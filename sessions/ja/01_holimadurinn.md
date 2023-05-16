@@ -32,3 +32,16 @@ Föruneytið á leið í Lindir þar sem kynlegir hlutir gerast.
     damage - virkar bara í tvö skipti samt
   - Hægt að þekja jörðina (5 fet) í olíu - hægt að kveikja í því og í 2 turn 
     gerir það 5 fire damage við alla á svæðinu
+
+## Útspil
+- Gistu hjá Önnu
+- Björguðu bænum frá úlfunum
+- Bróðir Atli sagði þeim frá Söngviðjunni og Hrafni sem hjó hana niður fyrir 90
+  árum.
+- Heyrðu vísuna
+- Fundu lík Kötlu og skiluðu henni
+- Töluðu við Daða og lærðu um Óla Skúla
+- Sáu fórnalamb holamannsins og eltu slorann hans (Sunneva náði mjög góðum 
+  köstum).
+- Fengu aðeins að kynnast því að berjast við hann.
+- Kunna að nota olíu og kyndil.
