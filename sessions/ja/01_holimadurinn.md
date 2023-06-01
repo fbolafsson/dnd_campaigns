@@ -24,7 +24,7 @@ Föruneytið á leið í Lindir þar sem kynlegir hlutir gerast.
 ## Eld æfingar
 - Það þarf að útbúa örvar sérstaklega til að það sé hægt að dippa þeim með eld
   og fá þannig 1d4 eld damage til viðbótar
-  - þarf að nota 1 dós af olíu og klúta til að geta gert 6 örvar.
+  - þarf að nota 1 skammt af olíu og klúta til að geta gert 6 örvar.
 - Kyndill sem er búið að kveikja í er improvised vopn sem gerir 1d4 + str + 1 
   fire damage - Ef það er gert 4 í damage með d4 þá brotnar hann
 - [Olía](https://www.dndbeyond.com/equipment/oil-flask)
