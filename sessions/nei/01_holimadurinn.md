@@ -9,3 +9,6 @@
   markmiðum hennar.
 - Skoðuðu Nornapittinn
 - Fundu fyrsta fórnalamb Holamannsins - hættum þar.
+
+# Útspil 2
+- 
