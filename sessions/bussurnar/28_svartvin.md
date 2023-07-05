@@ -10,3 +10,6 @@ Bússurnar eru komnar djúpt í kjallara Nonna
       > Þakka þér fyrir góð störf.
       > 
       > Snorri Konungur
+
+## Útspil
+- Einn risa bardagi sem við náðum ekki að útkljá
