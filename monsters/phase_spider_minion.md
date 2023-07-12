@@ -6,7 +6,7 @@ Medium Beast CR 1/4 Minion
 
 **Armor Class** 13
 
-**Hit Points** 6
+**Hit Points** 13
 
 **Speed** 40 ft., climb 40 ft.
 
