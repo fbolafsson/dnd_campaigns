@@ -1,0 +1,17 @@
+# Snorri Konungur
+
+Bússurnar eru að etjast við Snorra Konung í krúnuherbergi sínu
+
+## Væntingar
+- Þau ættu að finna Plönin hans Adams.
+  - Hvað þurfa hetjurnar að gera til að stoppa árásina.
+- Snorri ætti að reyna að flýja.
+- Hvernig ætla þau að komast til baka.
+
+## Leyndarmál
+- Snorri Konungur á leiða árásina á Vík til að lokka hermenn Miklagarðs frá 
+  Höfuðborginni til
+- Adam ætlar að fremja valdarán Í Miklagarði og gerast konungur.
+- Adam er í raun Alexander Lyngdal Ráðsmaður Miklagarðs og Markgreifi 
+  Hrafnagarðs.
+- Án Snorra munu Eldrisarnir ekki ráðast á Vík.
