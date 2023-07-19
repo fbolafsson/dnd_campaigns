@@ -8,6 +8,10 @@ Bússurnar eru að etjast við Snorra Konung í krúnuherbergi sínu
 - Snorri ætti að reyna að flýja.
 - Hvernig ætla þau að komast til baka.
 
+## Persónur
+- Pálmi - Obmi
+- Salka - Salik
+
 ## Leyndarmál
 - Snorri Konungur á leiða árásina á Vík til að lokka hermenn Miklagarðs frá 
   Höfuðborginni til
@@ -15,3 +19,4 @@ Bússurnar eru að etjast við Snorra Konung í krúnuherbergi sínu
 - Adam er í raun Alexander Lyngdal Ráðsmaður Miklagarðs og Markgreifi 
   Hrafnagarðs.
 - Án Snorra munu Eldrisarnir ekki ráðast á Vík.
+- 
