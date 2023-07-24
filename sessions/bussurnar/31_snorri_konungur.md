@@ -19,4 +19,12 @@ Bússurnar eru að etjast við Snorra Konung í krúnuherbergi sínu
 - Adam er í raun Alexander Lyngdal Ráðsmaður Miklagarðs og Markgreifi 
   Hrafnagarðs.
 - Án Snorra munu Eldrisarnir ekki ráðast á Vík.
-- 
+
+## Útspil
+- Drápu snorra
+- Komust inn í herbergið Snorra
+- Fundu ýmis bréfsnifsi um hans plön með Adam
+- Adam ætlar sér að verða konungur Miklagarðs
+- Adam gaf upp addressu og sagði að Blóðdroparnir ættu að gefa aðgang
+- Fundu tvær brons nælur sem litu út eins og dropar.
+- Dimóna yngdist
