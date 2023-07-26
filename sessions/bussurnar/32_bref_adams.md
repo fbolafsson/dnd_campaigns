@@ -7,6 +7,13 @@ Bússurnar fundu bréf frá Adam um árásarplanið og staðsetningu.
 - Reikna með að þau skoða eitthvað meira í kring.
 - Fljúga til Miklagarðs
 
-# Flugbardagi
+## Flugbardagi
 - [Skýjaromur](https://www.dndbeyond.com/monsters/175360-skyswimmer)
 - 2 [Finngálkn](https://www.dndbeyond.com/monsters/17065-wyvern)
+
+## Útspil
+- Nældu sér í fjársjóð
+- Tóku longrest
+- Griffonarnir komu til þeirra
+- Flugu af stað
+- Tveir skýjarormar nálguðust þá.
