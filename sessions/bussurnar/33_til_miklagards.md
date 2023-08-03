@@ -3,7 +3,7 @@ Bússurnar fljúga til Miklagarðs en tveir Skýjaormar hafa aðrar hugmyndir.
 
 ## Væntingar
 - Þarf að negla niður reglurnar ef einhver hrapar niður.
-  - detta 500 fet á roundi eru í 800 feta
+  - Detta 500 fet á roundi eru í 800 feta
   - Detta annað hvort í byrjun turns-ins síns eða í lok turnsins síns - eftir
     því hvort kemur á undan.
   - Damage cappið á því að detta er 50d6
@@ -77,3 +77,10 @@ Bússurnar fljúga til Miklagarðs en tveir Skýjaormar hafa aðrar hugmyndir.
   fyrir showdown-ið)
 - Stóra Showið - Adam er að skipugleggja sýningu sem mun enda í dauða Sindra og
   syni hans braga. 
+
+## Úrvinnsla
+- Drápu skýjaormana,
+  - Harvestuðu skýjaormana, fá 6d6 acid, og seyði sem leyfir þeim að svífa.
+- Kilmir ásakaði Lyngdælinga um landráð í áheyrn konungs
+- Alexander benti konungi á að þau eru sökuð um morð Eggerts
+- Sindri konungur skipaði vörðunum að handsama þau.
