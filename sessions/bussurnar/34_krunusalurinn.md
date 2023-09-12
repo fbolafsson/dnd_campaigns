@@ -29,5 +29,6 @@ fyrirmæli um að handsama þau.
 - Kilmir réðst á Alexander (Fiend Warlock) sem notaði plane shift til að flýja 
   í burtu.
 - Kilmir drap einn aðalsmann á leiðinni út - Brúsa - en hann var ósýnilegur 
-  þegar 
-- 
+  þegar hann myrti einn aðalsmann á leiðinni út.
+- Versluðu við Morkna Gálgann
+- Fylgdust með hræðilegri athöfn eiga sér stað í Rósarstræti
