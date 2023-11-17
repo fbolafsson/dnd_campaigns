@@ -19,4 +19,9 @@ Bússurnar eru komnar í Hjarta Æðakerfisins.
 - á einum endanum er risa stór kassalaga málm plata sem rís úr holdkenndu
   gólfinu. Í miðjunni er tveggja og hálfs metra fjólublár kristall sem ómar 
   eitthvað í.
+- Gjóska er orki sem hefur verið handsamaður, hún flutti til Miklagarðs frá
+  Mórlandi í vor með bróður sínum Gormi. Þau hafa enga vinnu fengið og hafa
+  verið að þrauka af á strætum Miklagarðs.
 
+## Tilraunastofan
+- 

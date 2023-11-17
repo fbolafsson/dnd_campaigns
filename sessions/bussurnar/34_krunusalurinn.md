@@ -32,3 +32,4 @@ fyrirmæli um að handsama þau.
   þegar hann myrti einn aðalsmann á leiðinni út.
 - Versluðu við Morkna Gálgann
 - Fylgdust með hræðilegri athöfn eiga sér stað í Rósarstræti
+- 
